@@ -1,0 +1,11 @@
+site_name: A&H Wiki
+site_url: https://wiki.ah.games
+theme:
+  name: material
+  features:
+  - search.suggest
+  palette:
+    scheme: slate
+    primary: green
+plugins:
+    - search
