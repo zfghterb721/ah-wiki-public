@@ -7,19 +7,19 @@ Welcome to the official A&H Games operations wiki. This resource provides employ
 - [Employee Handbook](sections/employee_handbook/employee_handbook_index.md)  
   Core employment information including expectations, benefits, and workplace guidelines.
 
-- [Policies](sections/policies.md)  
+- [Policies](sections/policies/policies_index.md)  
   Official rules and requirements that govern employee behavior and store operations.
 
-- [Procedures](sections/procedures.md)  
+- [Procedures](sections/procedures/procedures_index.md)  
   Step-by-step instructions for completing daily tasks and responsibilities.
 
-- [Operations](sections/operations.md)  
+- [Operations](sections/operations/operations_index.md)  
   Overview of how the store functions, including systems, strategy, and decision-making guidelines.
 
-- [Products](sections/products.md)  
+- [Products](sections/products/products_index.md)  
   Reference material for product knowledge, categories, and common customer questions.
 
-- [Systems](sections/systems.md)  
+- [Systems](sections/systems/systems_index.md)  
   Guides for using store software, tools, and technical workflows.
 
 ## Quick Links
