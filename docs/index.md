@@ -22,6 +22,9 @@ Welcome to the official A&H Games operations wiki. This resource provides employ
 - [Systems](sections/systems/systems_index.md)  
   Guides for using store software, tools, and technical workflows.
 
+- [Training](sections/training/training_index.md)  
+  Onboarding materials and role-specific guidance for employee development.
+
 ## Quick Links
 
 - [Opening Checklist](procedures/opening_closing/opening_checklist.md)  
@@ -38,9 +41,6 @@ Welcome to the official A&H Games operations wiki. This resource provides employ
 
 - [Events](events/index.md)  
   Detailed procedures and expectations for all store events.
-
-- [Training](training/index.md)  
-  Onboarding materials and role-specific guidance for employee development.
 
 - [Reference](reference/index.md)  
   Quick-access information for common questions, policies, and lookups.
