@@ -10,9 +10,9 @@ We take pride in delivering exceptional service and product knowledge to all gam
 
 ## Purpose of This Handbook
 
-This handbook provides employees with a clear understanding of the expectations, policies, and standards required while working at A&H Games.
+This handbook defines the expectations, policies, and standards required while working at A&H Games.
 
-It is designed to serve as a reference for workplace rules, employee responsibilities, and company practices. Employees are expected to remain familiar with its contents and seek clarification from management when needed.
+Employees are responsible for knowing and following all content in this handbook. Failure to follow any policy may result in disciplinary action, up to and including immediate termination.
 
 This handbook may be updated as the business evolves.
 
@@ -21,7 +21,10 @@ This handbook may be updated as the business evolves.
 ## Handbook Sections
 
 - [General Information](general_information.md)  
-  Definitions, terminology, and basic information about how A&H Games operates.
+  Definitions, terminology, and core operational policies.
+
+- [Employment Expectations](employment_expectations.md)  
+  Core expectations for behavior, priorities, and how employees are expected to operate while on shift.
 
 - [Code of Conduct](code_of_conduct.md)  
   Required standards of behavior and actions that may result in disciplinary action.

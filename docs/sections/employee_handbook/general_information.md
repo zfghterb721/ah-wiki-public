@@ -1,8 +1,10 @@
 # General Information & Policies
 
-This section provides essential information about how A&H Games operates, along with the core policies that govern day-to-day employee expectations.
+This section defines key information about how A&H Games operates, along with core policies that apply to all employees.
 
-All employees are expected to understand and follow the policies outlined below.
+Employees are responsible for knowing and following all policies in this section.
+
+Failure to follow these policies may result in disciplinary action, up to and including termination.
 
 ---
 
@@ -12,7 +14,7 @@ All employees are expected to understand and follow the policies outlined below.
 
 A&H Games is the operating name of Alvar and Hurrik's LLC. Any reference to "A&H Games" or "the company" refers to Alvar and Hurrik's LLC and its subsidiaries.
 
-Each employee is assigned to a specific A&H Games location where their shifts take place.
+Employees are assigned to a specific A&H Games location where their shifts take place.
 
 ---
 
@@ -31,15 +33,13 @@ Each employee is assigned to a specific A&H Games location where their shifts ta
 
 Employees must be present, on time, and ready to work at the start of their scheduled shift.
 
-- Employees are expected to work their full scheduled shift  
-- Notify your manager as early as possible if you cannot attend a shift  
+- Employees must work their full scheduled shift  
+- Notify your manager immediately once you are aware you cannot attend  
 - Communication must be direct (call or message). Voicemail should only be used in emergencies  
 - Tardiness or absence without proper notice may result in disciplinary action  
+- Repeated attendance violations may result in termination  
 
-Work schedules are managed through Quickbooks Time:  
-https://tsheets.intuit.com/?realm_id=193514843494199&from=time_center
-
-Reliable attendance is critical to maintaining store operations and supporting your team.
+Work schedules and time tracking are managed through the Workforce app.
 
 ---
 
@@ -48,7 +48,7 @@ Reliable attendance is critical to maintaining store operations and supporting y
 All new employees are subject to a probationary period of up to 60 days from their date of hire.
 
 During this period:
-- Employees may evaluate the role and workplace  
+
 - Management evaluates employee performance and fit  
 
 Employment may be terminated at any time during this period without notice.
@@ -66,11 +66,14 @@ Employees may park in publicly accessible parking areas designated for the store
 Employees are responsible for maintaining the security of the store.
 
 #### Keys and Access
+
 - Employees issued keys are responsible for their safekeeping  
 - A key disbursement form must be signed upon receiving a key  
 
 #### Closing Responsibilities
+
 Employees working closing shifts must:
+
 - Turn off all non-security lights  
 - Ensure security lights remain on (varies by location)  
 - Set thermostats appropriately  
@@ -78,17 +81,16 @@ Employees working closing shifts must:
 
 No one is permitted in the store after hours without management approval.
 
-A&H Games is not responsible for loss or damage to personal property.
-
 ---
 
 ### Smoking
 
 Smoking or vaping is not permitted:
+
 - Inside the store  
 - Directly in front of the store entrance  
 
-Employees must use designated smoking areas specific to each location.
+Employees must use designated smoking areas.
 
 ---
 
@@ -97,6 +99,7 @@ Employees must use designated smoking areas specific to each location.
 Employees are responsible for keeping their personal information up to date.
 
 Notify management of any changes to:
+
 - Address  
 - Phone number  
 - Emergency contact information  
@@ -108,34 +111,80 @@ Notify management of any changes to:
 In the event of severe weather or emergencies (e.g., power outages, fire), store operations may be suspended.
 
 - Closure decisions are made by A&H leadership  
-- Employees will be notified via Signal  
-- Missed time due to closure is unpaid unless otherwise specified  
+- Employees will be notified through official company communication channels  
+- Employees are responsible for monitoring communication channels for updates  
+
+Missed time due to closure is unpaid unless otherwise specified. 
 
 ---
 
 ### Corrective Action
 
-Employees are expected to follow all company policies and standards.
+Employees are required to follow all company policies and standards.
 
-When policies are not followed, corrective action may occur, including:
+Disciplinary action may include:
+
 1. Verbal warning  
 2. Written warning  
-3. Termination  
+3. Immediate termination  
 
-Depending on the severity of the situation, termination may occur without prior warning.
+The severity of the violation determines the level of corrective action.
 
 ---
 
 ### Cell Phone and Internet Usage
 
-Employees may use personal cell phones and the internet under the following conditions:
+Personal cell phone and internet use is permitted only when it does not interfere with job responsibilities or customer interaction.
 
-- Usage must not interfere with job responsibilities  
-- Usage must not disrupt customer interactions  
+- Employees must remain attentive and available at all times  
 - Accessing inappropriate content is strictly prohibited  
 
-Employees are expected to remain attentive and engaged with customers at all times.
+These policies apply to all employees and are required for continued employment at A&H Games.
 
 ---
 
-These policies exist to ensure a consistent, professional, and secure environment for both employees and customers. Adherence to these guidelines is required for continued employment at A&H Games.
+## Leaving the Store During a Shift
+
+Employees may not leave the store during a scheduled shift without prior manager approval.
+
+This includes leaving for:
+
+- Product transfers between locations  
+- Picking up or delivering inventory  
+- Errands or other business-related tasks  
+
+Employees may not create or assign themselves tasks that require leaving the store.
+
+All off-site tasks must:
+
+- Be approved by a manager in advance  
+- Be coordinated to ensure proper store coverage  
+- Be clearly assigned as part of job responsibilities  
+
+Leaving the store without approval may result in immediate disciplinary action.
+
+---
+
+### Promotional Materials and Advertising
+
+All promotional materials displayed within the store must be approved by management.
+
+This includes:
+
+- Flyers  
+- Posters  
+- Event advertisements  
+- Business cards  
+- Any other printed or displayed material  
+
+Employees may not:
+
+- Post or display materials without approval  
+- Allow customers to post materials without approval  
+- Distribute or promote materials on behalf of third parties without approval  
+
+All requests to display or distribute materials must be directed to a manager.
+
+No exceptions are permitted.
+
+Failure to follow this policy may result in disciplinary action.

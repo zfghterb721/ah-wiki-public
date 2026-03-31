@@ -1,81 +1,90 @@
 # Workplace Standards
 
-This section outlines expectations for personal hygiene, appearance, and professionalism at A&H Games. These standards help ensure a clean, comfortable, and welcoming environment for both customers and employees.
+This section defines required standards for personal appearance, hygiene, and professionalism at A&H Games.
 
-All employees are expected to maintain these standards while on shift.
+These standards ensure a clean, comfortable, and family-friendly environment for customers and employees.
+
+Failure to meet these standards may result in being sent home or disciplinary action. Repeated violations may result in termination.
 
 ---
 
 ## Professional Appearance
 
-Employees should present themselves in a clean, neat, and professional manner.
+Employees must present themselves in a clean, neat, and appropriate manner at all times while on shift.
 
 ### Clothing
+
 - Clothing must be clean, appropriate, and in good condition  
 - Collared shirts, jeans, shorts, and similar attire are acceptable  
-- T-shirts are allowed, but should not be inappropriate or unprofessional  
-- Clothing must not display profanity or offensive graphics  
-- Athletic wear or swimwear should not be worn  
+- T-shirts are permitted but must not be inappropriate or unprofessional  
+- Clothing must not display profanity, sexual content, or offensive graphics  
+- Athletic wear or swimwear is not permitted  
 
-If you are unsure whether something is appropriate, do not wear it.
+If clothing is deemed inappropriate by management, the employee will be required to change.
 
 ---
 
 ## Personal Hygiene
 
-Maintaining good hygiene is required at all times.
+Employees must maintain good hygiene at all times.
 
 - Maintain clean, well-groomed hair and fingernails  
 - Wear deodorant during your shift  
 - Ensure clothing is clean and freshly laundered  
-- Maintain fresh breath (gum or mints are recommended if needed)  
+- Maintain fresh breath  
 - Wash hands regularly, especially after eating or using the restroom  
 
-Employees should be mindful that others may notice odors or hygiene issues even if they do not.
+Employees must be aware that hygiene issues are noticeable in a customer-facing environment.
+
+Failure to meet hygiene standards may result in being sent home.
 
 ---
 
 ## Odors and Fragrance
 
-Employees must avoid strong or unpleasant odors.
+Employees must not have strong or unpleasant odors while on shift.
 
-- Do not come to work smelling of smoke, alcohol, or marijuana  
-- Avoid overpowering cologne or perfume  
-- If smoking is part of your routine, take steps to minimize lingering odor before your shift  
+- Do not report to work smelling of smoke, alcohol, or marijuana  
+- Avoid excessive cologne or perfume  
 
-Strong or unpleasant scents may be addressed by management.
+If an odor is disruptive to the work environment, the employee may be required to leave and return in acceptable condition.
 
 ---
 
 ## Illness
 
-Employees should not report to work while visibly ill.
+Employees must not report to work while visibly ill.
 
 - Symptoms such as excessive coughing, sneezing, or runny nose may indicate illness  
-- Working while sick can negatively impact both coworkers and customers  
 
-If you are unable to work due to illness, follow attendance policies and notify your manager.
+Employees may be sent home if they report to work visibly ill.
+
+Follow attendance policies when calling out due to illness.
 
 ---
 
 ## Professional Conduct
 
-Employees are expected to contribute to a positive and respectful workplace environment.
+Employees must contribute to a respectful and professional workplace.
 
 - Treat customers and coworkers with respect  
 - Maintain a helpful and approachable attitude  
-- Avoid inappropriate language or behavior  
-- Represent A&H Games in a positive manner at all times  
+- Do not use inappropriate language or behavior  
+- Maintain and uphold workplace standards when interacting with customers and coworkers
+
+Professional conduct expectations are enforced under the [Code of Conduct](code_of_conduct.md).
 
 ---
 
 ## Personal Expression
 
-A&H Games supports individual expression, provided it remains appropriate for a customer-facing environment.
+A&H Games allows personal expression within the limits of a customer-facing, family-friendly environment.
 
-- Tattoos, piercings, and personal style are permitted  
-- Personal items should be clean, maintained, and not disruptive  
+- Tattoos and piercings are permitted  
+- Personal style is allowed provided it remains appropriate and non-disruptive  
+
+Management will determine whether specific expression is inappropriate.
 
 ---
 
-These standards are in place to ensure that A&H Games remains a clean, welcoming, and professional environment for everyone. Employees are expected to meet these expectations consistently.
+These standards apply at all times while on shift and are part of the overall expectations of employment at A&H Games.
