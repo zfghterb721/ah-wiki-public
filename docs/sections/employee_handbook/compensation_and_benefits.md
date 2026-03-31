@@ -10,7 +10,7 @@ Failure to follow these policies may result in disciplinary action.
 
 ## Payroll
 
-Employees are paid on a bi-weekly basis.
+Employees are paid on a weekly basis.
 
 - Pay periods run Monday through Sunday  
 - Payment is issued via direct deposit  
