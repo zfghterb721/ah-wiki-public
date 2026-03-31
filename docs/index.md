@@ -16,6 +16,9 @@ Welcome to the official A&H Games operations wiki. This resource provides employ
 - [Operations](sections/operations/operations_index.md)  
   Overview of how the store functions, including systems, strategy, and decision-making guidelines.
 
+- [Organized Play](sections/organized_play/organized_play_index.md)  
+  Overview of organized play access and procedures.
+
 - [Products](sections/products/products_index.md)  
   Reference material for product knowledge, categories, and common customer questions.
 

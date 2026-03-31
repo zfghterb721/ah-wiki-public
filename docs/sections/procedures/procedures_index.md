@@ -27,6 +27,12 @@ Procedures are designed to be clear, repeatable, and easy to follow. Employees s
 - [Processing Trade-Ins / Buylist](buylist.md)  
   How to purchase items from customers and enter them into the system.
 
+- [Checkout](checkout.md)  
+  Best practices for efficient checkout, attaching customer accounts, handling edge cases, and maintaining accuracy at the register. :contentReference[oaicite:0]{index=0}
+
+- [Cash Handling](cash_handling.md)  
+  Procedures for managing cash, counting drawers, preparing deposits, and maintaining accurate records. :contentReference[oaicite:1]{index=1}
+
 ---
 
 ## Inventory
@@ -49,6 +55,9 @@ Procedures are designed to be clear, repeatable, and easy to follow. Employees s
 
 - [Event Teardown](event_teardown.md)  
   Closing out events and restoring the store.
+
+- [Event Flyers](event_flyer.md)  
+  How to access, print, and distribute monthly event flyers for customer awareness. :contentReference[oaicite:2]{index=2}
 
 ---
 
