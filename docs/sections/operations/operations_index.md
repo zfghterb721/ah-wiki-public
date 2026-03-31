@@ -65,6 +65,11 @@ The goal of this section is to help employees understand:
 
 ---
 
+### Approved Vendors
+
+- [Approved Vendors](approved_vendors.md)  
+  Description needed.
+
 ## Notes
 
 - Procedures explain *what to do*  
