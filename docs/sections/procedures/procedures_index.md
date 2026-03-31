@@ -14,6 +14,9 @@ Procedures are designed to be clear, repeatable, and easy to follow. Employees s
 - [Closing Checklist](closing_checklist.md)  
   Required steps to properly close and secure the store.
 
+- [Doc-Tags](doc_tags.md)  
+  Explains what Doc-Tags are and how to use them.
+
 ---
 
 ## Register and Transactions
