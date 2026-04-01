@@ -1,14 +1,8 @@
----
-title: Organized Play
-description: Main page for rules and procedures on all organized play supported at A&H
-published: true
-date: 2025-03-25T19:29:04.763Z
-tags: 
-editor: markdown
-dateCreated: 2024-05-17T17:10:28.557Z
----
-
 # Organized Play
+
+## Overview
+
+- [Organized Play Overview](organized_play_overview.md)
 
 ## General Guidelines
 
@@ -23,5 +17,3 @@ dateCreated: 2024-05-17T17:10:28.557Z
 - [Pokemon League Guide](pokemon-league-guide.md)
 - [Flesh and Blood GEM](Flesh-and-Blood-GEM.md)
 - [Yu-Gi-Oh! OTS](Yu-Gi-OH-OTS.md)
-
-
