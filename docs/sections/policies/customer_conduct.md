@@ -1,120 +1,139 @@
 # Customer Conduct Policy
 
-A&H Games is committed to maintaining a safe, welcoming, and family-friendly environment for all customers.
+## Purpose
 
-This policy outlines expectations for customer behavior within the store and provides guidance for employees when addressing issues.
+A&H Games is a family-friendly environment. All customers must behave in a way that is respectful to staff, other customers, and the store space.
+
+Employees are responsible for enforcing this policy.
+
+---
+
+## Employee Responsibility
+
+- Employees must actively enforce customer conduct standards
+- Employees may not ignore violations, even if the situation is uncomfortable
+- Employees are expected to address issues immediately
+
+Failure to enforce this policy is a policy violation and will result in disciplinary action.
 
 ---
 
 ## General Expectations
 
-All customers are expected to behave in a respectful and appropriate manner at all times.
+Customers must:
 
-This includes:
-- Treating employees and other customers with respect  
-- Using appropriate language and tone  
-- Following store rules and employee instructions  
+- Treat staff and other customers with respect
+- Follow all store rules and staff instructions
+- Maintain appropriate language and behavior
+- Use store space and property appropriately
 
-Behavior that disrupts the store environment may result in corrective action, including removal from the store.
-
----
-
-## Respectful Behavior
-
-Customers must not engage in:
-
-- Harassment or intimidation of any kind  
-- Discriminatory or offensive language  
-- Threats of violence or aggressive behavior  
-- Disruptive conduct that impacts other customers  
-
-A&H Games maintains a zero-tolerance policy for harassment and threats.
+Customers may not disrupt the store environment.
 
 ---
 
-## Family-Friendly Environment
+## Prohibited Behavior
 
-Customers must adhere to the store’s family-friendly standards.
+The following behavior is not allowed:
 
-- Excessive or inappropriate profanity is not permitted  
-- Conversations and behavior should be appropriate for all ages  
-- Employees are responsible for addressing violations of this standard  
+### Disruptive Behavior
+- Loud, excessive, or ongoing disruption
+- Harassment, intimidation, or bullying
+- Arguments that escalate beyond normal disagreement
 
-Customers who fail to comply may be asked to leave the store.
+### Inappropriate Language & Content
+- Profanity or vulgar language
+- Sexual or explicit content
+- Hate speech or discriminatory remarks
+
+### Unsafe or Damaging Behavior
+- Physical aggression or threats
+- Damage to store property or merchandise
+- Unsafe use of tables, chairs, or fixtures
+
+### Interference with Business Operations
+- Refusing to follow staff instructions
+- Interfering with events or organized play
+- Blocking walkways, retail space, or register areas
+
+### Unauthorized Activities
+- Posting flyers or promotional materials without manager approval
+- Distributing items, products, or giveaways without approval
+- Soliciting money, tips, or sales inside the store
 
 ---
 
-## Store Usage and Conduct
+## How to Handle Violations
 
-Customers are expected to use the store appropriately.
+Employees must take action using the following steps:
 
-- Do not run, roughhouse, or engage in unsafe behavior  
-- Do not interfere with store operations or employee duties  
-- Follow all posted rules and event guidelines  
+### Step 1 — Address Immediately
+- Approach the customer calmly and directly
+- State the issue clearly:
+  - "We can't allow that language in the store.”
+  - "You'll need to stop that behavior.”
+- Give a clear instruction to correct it
 
-Customers must comply with reasonable requests from employees.
+### Step 2 — Set the Boundary
+If behavior continues:
+
+- Repeat the instruction clearly
+- State the consequence:
+  - "If this continues, you'll need to leave.”
+
+### Step 3 — Remove from Store
+If behavior does not stop:
+
+- Tell the customer they must leave immediately
+- **Do not argue or negotiate**
+- If needed, involve a manager
 
 ---
 
-## Cleanliness and Shared Space
+## Immediate Removal (No Warning Required)
 
-Customers share responsibility for maintaining the store environment.
+Customers may be removed immediately for:
 
-- Dispose of trash properly  
-- Keep play areas reasonably clean  
-- Avoid creating messes or leaving personal items unattended  
+- Threats or physical aggression
+- Harassment of staff or customers
+- Severe profanity or explicit behavior
+- Any behavior that creates a safety concern
 
-Employees may address cleanliness issues as needed.
+---
+
+## Ban Enforcement
+
+Managers may issue a ban for:
+
+- Repeated violations
+- Severe misconduct
+- Threats, harassment, or safety concerns
+
+Ban duration is determined by management.
 
 ---
 
 ## Employee Authority
 
-Employees are responsible for maintaining a safe and welcoming environment.
-
-Employees may:
-
-- Address inappropriate behavior directly  
-- Ask customers to stop specific actions  
-- Require customers to follow store rules  
-
-Employees should act calmly, clearly, and professionally when addressing issues.
+- Employees have the authority to enforce this policy
+- Employees may require a customer to leave if necessary
+- Employees must involve a manager when:
+  - A situation escalates
+  - A ban is being considered
+  - They feel unsafe
 
 ---
 
-## Removal from Store
+## Refusal of Service
 
-Employees have the authority to request that a customer leave the store if necessary.
-
-Reasons for removal may include:
-- Repeated violations of store policies  
-- Disruptive or unsafe behavior  
-- Failure to follow employee instructions  
-
-Customers who are asked to leave must do so immediately.
+A&H Games reserves the right to refuse service to any customer who violates store policies.
 
 ---
 
-## Bans and Escalation
+## Summary
 
-If a customer is removed from the store:
+- Employees must act — do not ignore issues
+- Address behavior immediately and directly
+- Set clear expectations and consequences
+- Remove customers if behavior does not improve
 
-- Notify a manager as soon as possible  
-- Management will determine whether a ban is necessary  
-- Management will determine the duration and terms of any ban  
-
-Employees are responsible for handling the immediate situation, not issuing bans.
-
----
-
-## Consistency
-
-This policy must be enforced consistently.
-
-- Do not make exceptions for regulars, friends, or event participants  
-- Address issues early before they escalate  
-- When in doubt, prioritize the safety and comfort of the store environment  
-
----
-
-Maintaining a respectful and family-friendly environment is essential to the A&H Games experience. Employees are expected to uphold these standards and take appropriate action when necessary.
+Failure to enforce this policy will result in disciplinary action.

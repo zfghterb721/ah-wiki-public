@@ -1,22 +1,24 @@
 # Emergency Procedures
 
-This policy outlines the steps employees should take in the event of an emergency. The safety of customers and employees is the top priority in all situations.
+## Purpose
 
-In any emergency, remain calm, act quickly, and notify management as soon as possible.
+This policy defines required actions during emergency situations.
+
+In all emergencies, employees must act immediately to protect people first, then property.
 
 ---
 
-## General Guidelines
+## General Emergency Rules
 
-In all emergency situations:
+In any emergency:
 
-- Stay calm and assess the situation  
-- Prioritize the safety of customers and employees  
-- Contact emergency services (911) when appropriate  
-- Notify a manager as soon as possible  
-- Do not take unnecessary risks  
+- Stay calm and act immediately
+- Prioritize safety of customers and employees
+- Call emergency services (911) when appropriate
+- Notify a manager as soon as possible
+- Do not delay action while waiting for approval
 
-If you are unsure what to do, focus on keeping people safe and call for help.
+If you are unsure, treat the situation as an emergency and escalate.
 
 ---
 
@@ -24,89 +26,143 @@ If you are unsure what to do, focus on keeping people safe and call for help.
 
 If a fire or smoke is detected:
 
-1. Alert everyone in the store immediately  
-2. Call 911  
-3. Evacuate the building using the nearest safe exit  
-4. Do not attempt to fight the fire unless it is very small and you are trained to do so  
-5. Move to a safe distance away from the building  
-6. Do not allow anyone to re-enter the building  
+- Evacuate the store immediately
+- Instruct all customers to leave
+- Call 911
+- Do not attempt to fight the fire unless it is small and you are trained
+
+Do not re-enter the building for any reason.
 
 ---
 
 ## Medical Emergency
 
-If a customer or employee is injured or experiencing a medical emergency:
+If someone is injured or experiencing a medical issue:
 
-1. Call 911 if the situation is serious or life-threatening  
-2. Do not attempt medical treatment beyond your level of training  
-3. Keep the individual as comfortable and still as possible  
-4. Clear space around the individual if needed  
-5. Stay with the individual until help arrives  
+- Call 911 immediately for serious conditions
+- Provide basic assistance if safe to do so
+- Do not attempt medical procedures beyond your training
+- Clear space around the individual
+- Notify a manager
 
-If possible, have another employee assist with crowd control.
+Stay with the individual until help arrives.
 
 ---
 
 ## Severe Weather
 
-In the event of severe weather (tornado, severe storm, etc.):
+If severe weather occurs (tornado, severe storm, etc.):
 
-1. Monitor alerts and warnings when possible  
-2. Move customers and staff away from windows and exterior doors  
-3. Seek shelter in the safest available interior area  
-4. Remain inside until conditions are safe  
+- Move customers and employees away from windows and entrances
+- Direct everyone to the safest available interior area
+- Monitor conditions and remain in place until safe
 
-Follow any additional instructions provided by management.
-
----
-
-## Power Outage
-
-If power is lost:
-
-1. Remain calm and notify customers  
-2. Stop all register transactions immediately  
-3. Do not attempt to continue sales without proper systems  
-4. Use available lighting (if safe to do so)  
-5. Notify management  
-
-If the outage is prolonged, management will provide further instructions.
-
----
-
-## Dangerous or Disruptive Individuals
-
-If a person is behaving in a way that threatens safety:
-
-1. Do not engage physically  
-2. Maintain a safe distance  
-3. De-escalate verbally if possible  
-4. Notify management immediately  
-5. Call 911 if there is a threat of violence  
-
-The safety of employees and customers takes priority over all other concerns.
+Do not allow customers to remain in unsafe areas.
 
 ---
 
 ## Evacuation
 
-If evacuation is required:
+Evacuate the store when:
 
-- Direct customers to the nearest exit  
-- Ensure all areas of the store are cleared if safe to do so  
-- Exit the building and move to a safe distance  
-- Do not re-enter until authorized  
+- Fire or smoke is present
+- There is a safety threat
+- Directed by emergency services or management
 
----
+During evacuation:
 
-## Incident Reporting
+- Instruct all customers to leave immediately
+- Ensure exits remain clear
+- Do not allow re-entry until cleared
 
-After any emergency:
-
-- Notify management if not already done  
-- Document the incident as required  
-- Provide accurate details of what occurred  
+Employees must assist in clearing the building.
 
 ---
 
-Emergencies are unpredictable, but preparation and calm action can prevent serious harm. Employees are expected to follow these procedures and prioritize safety at all times.
+## Threats and Violent Situations
+
+If a threat or violent situation occurs:
+
+- Do not engage physically
+- Create distance between yourself and the threat
+- Call 911 immediately
+- Follow instructions from law enforcement
+
+If safe, direct customers away from the situation.
+
+Employee safety takes priority.
+
+---
+
+## Suspicious Packages or Items
+
+If a suspicious item is found:
+
+- Do not touch or move the item
+- Clear the immediate area
+- Notify a manager
+- Call 911 if necessary
+
+---
+
+## Theft in Progress
+
+If theft is occurring:
+
+- Do not physically intervene
+- Do not pursue the individual
+- Notify a manager
+- Observe and document details if safe
+
+Do not put yourself at risk.
+
+---
+
+## Utility Failures
+
+If power, water, or critical systems fail:
+
+- Notify a manager immediately
+- Stop affected operations if necessary
+- Follow manager direction
+
+Do not continue operations if conditions are unsafe.
+
+---
+
+## Communication
+
+During an emergency:
+
+- Give clear, direct instructions to customers
+- Avoid panic or confusion
+- Use simple language:
+  - "Everyone needs to exit the building now"
+  - "Please move away from this area"
+
+Employees must take control of the situation.
+
+---
+
+## Employee Responsibility
+
+Employees must:
+
+- Act immediately in emergencies
+- Not wait for manager approval to take necessary action
+- Follow all procedures in this policy
+- Prioritize safety at all times
+
+Failure to follow emergency procedures is a serious policy violation.
+
+---
+
+## Summary
+
+- Act immediately
+- Call 911 when needed
+- Protect people first
+- Do not take unnecessary risks
+- Follow clear, direct actions
+
+Do not hesitate in an emergency.

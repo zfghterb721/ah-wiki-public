@@ -1,93 +1,172 @@
-# Store Safety
+# Store Safety Policy
 
-This policy outlines general safety expectations for employees at A&H Games. Maintaining a safe environment for customers and staff is a shared responsibility.
+## Purpose
 
-Employees are expected to remain aware of their surroundings and take reasonable steps to prevent unsafe conditions.
+This policy defines safety expectations and required actions to maintain a safe environment for employees and customers.
+
+Safety issues must be addressed immediately.
 
 ---
 
 ## General Safety Expectations
 
-Employees should:
+Employees must:
 
-- Remain aware of hazards in the store at all times  
-- Act promptly to address unsafe conditions  
-- Report safety concerns to management as soon as possible  
-- Prioritize the safety of customers, coworkers, and themselves  
+- Maintain awareness of their surroundings at all times
+- Identify and address hazards immediately
+- Escalate safety issues to a manager when necessary
+- Prioritize safety over sales and customer service
 
-If a situation appears unsafe, address it immediately or notify a manager.
+If a situation is unsafe, act immediately.
 
 ---
 
 ## Hazard Prevention
 
-Employees are responsible for helping prevent common hazards, including:
+Employees must ensure:
 
-- Spills or wet floors  
-- Cluttered walkways or blocked exits  
-- Unstable product displays  
-- Loose cords or tripping hazards  
+- Walkways and exits remain clear at all times
+- Floors are free of spills, debris, and tripping hazards
+- Products and displays are stable and secure
+- Cords, fixtures, and equipment do not create hazards
 
-### Expectations
-- Clean spills immediately or block off the area until it can be cleaned  
-- Keep walkways clear and accessible  
-- Ensure products are stored and displayed securely  
+### Required Actions
+
+- Clean spills immediately or block off the area until resolved
+- Remove or correct hazards as soon as they are identified
+- Do not leave hazards unattended
 
 ---
 
 ## Emergency Exits
 
-- Emergency exits must remain clear and accessible at all times  
-- Do not block exits with products, furniture, or personal items  
-- Employees should be familiar with all exit locations  
+- Emergency exits must remain clear and accessible at all times
+- Do not block exits with products, furniture, or personal items
+- Employees must know the location of all exits
+
+Blocked exits are a safety violation and must be corrected immediately.
 
 ---
 
 ## Customer Safety
 
-Employees should take reasonable steps to ensure customer safety:
+Employees must actively monitor and address unsafe behavior.
 
-- Monitor for unsafe behavior (running, roughhousing, etc.)  
-- Address situations that may result in injury  
-- Maintain a safe and organized play and retail environment  
+This includes:
 
-If a customer creates a safety risk, employees should intervene appropriately or notify management.
+- Running, roughhousing, or dangerous activity
+- Misuse of furniture or fixtures
+- Blocking walkways or exits
+
+Employees must intervene immediately. If behavior does not stop, escalate or remove the customer.
 
 ---
 
 ## Lifting and Physical Safety
 
-Employees should use proper care when handling inventory or equipment:
+Employees must:
 
-- Use proper lifting techniques  
-- Ask for assistance when lifting heavy or awkward items  
-- Do not attempt to lift items beyond your ability  
+- Use proper lifting techniques
+- Ask for assistance when handling heavy or awkward items
+- Not attempt to lift items beyond their ability
 
-Preventing injury is more important than speed.
+Preventing injury takes priority over speed.
+
+---
+
+## Spills and Immediate Hazards
+
+If a spill or hazard is identified:
+
+- Stop the hazard immediately
+- Block off the area if needed
+- Clean or resolve the issue as soon as possible
+- Notify a manager if assistance is required
+
+Do not leave hazards unattended.
+
+---
+
+## Injuries
+
+If a customer or employee is injured:
+
+- Stop activity in the area
+- Provide basic assistance if safe to do so
+- Notify a manager immediately
+- Follow emergency procedures if required
+
+All injuries must be reported.
+
+---
+
+## Theft and Suspicious Activity
+
+Employees may not physically intervene in theft situations.
+
+If theft or suspicious behavior is observed:
+
+- Do not physically engage
+- Notify a manager immediately
+- Observe and document details, if safe to do so
+
+Employee safety takes priority over merchandise.
 
 ---
 
 ## Incident Reporting
 
-Any incident involving injury, damage, or safety concerns must be reported to management.
+All incidents must be reported to a manager.
 
-Examples include:
-- Customer or employee injury  
-- Property damage  
-- Near-miss incidents that could have caused harm  
+This includes:
 
-Timely reporting helps prevent future incidents and protects both employees and the company.
+- Customer or employee injuries
+- Property damage
+- Near-miss incidents that could have caused harm
 
----
-
-## Personal Responsibility
-
-Employees are expected to exercise good judgment in all situations.
-
-- Do not engage in unsafe behavior  
-- Do not ignore known hazards  
-- Take responsibility for maintaining a safe environment  
+Do not delay reporting.
 
 ---
 
-Maintaining a safe store environment is essential to protecting our customers, our team, and our business. All employees are expected to take this responsibility seriously.
+## Restricted Actions
+
+Employees may not:
+
+- Physically engage with customers or suspects
+- Ignore known safety risks
+- Leave hazards unresolved
+- Attempt to handle situations beyond their control
+
+---
+
+## Escalation
+
+Employees must escalate to a manager when:
+
+- A hazard cannot be immediately resolved
+- A situation involves injury or potential injury
+- A customer refuses to follow safety instructions
+- There is uncertainty about how to proceed
+
+---
+
+## Employee Responsibility
+
+Employees must:
+
+- Act immediately when a safety issue is identified
+- Not delay action due to uncertainty or discomfort
+- Maintain a safe environment at all times
+
+Failure to address safety issues is a policy violation.
+
+---
+
+## Summary
+
+- Safety comes first
+- Fix or escalate hazards immediately
+- Do not take unnecessary risks
+- Involve a manager when needed
+
+Do not ignore safety issues.

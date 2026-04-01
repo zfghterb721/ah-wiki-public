@@ -1,59 +1,59 @@
 # Policies
 
-This section contains the official rules and requirements that govern employee behavior, store operations, and company practices at A&H Games.
+This section contains the official rules that govern employee behavior, store operations, and company practices at A&H Games.
 
-Policies define what is expected of employees and what actions are permitted or prohibited while working at A&H Games.
-
----
-
-## Employee Standards
-
-- [Employee Handbook](../employee_handbook/employee_handbook_index.md)  
-  Overview of employment expectations, workplace standards, and company policies.
+Policies are enforceable. Employees must follow all policies at all times.
 
 ---
 
-## Other Policies
+## Attendance
 
-These policies cover store-level rules that govern customer interactions, safety, and general business operations. These may apply to both employees and customers depending on the situation.
+- [Attendance Policy](attendance.md)  
+  Requirements for scheduling, punctuality, call-outs, shift coverage, and time-off.
 
-### Safety Policies
+---
+
+## Safety
+
 - [Store Safety](store_safety.md)  
   General safety expectations, hazard awareness, and incident response.
 
 - [Emergency Procedures](emergency_procedures.md)  
-  Steps to follow in case of fire, medical emergencies, severe weather, or other urgent situations.
+  Required actions during fire, medical emergencies, severe weather, and other urgent situations.
 
 ---
 
-### Customer & Retail Policies
+## Customer & Retail
+
 - [Receipts, Returns, & Exchanges Policy](receipts_returns_exchanges.md)  
-  Guidelines for returns, exchanges, and eligibility requirements.
+  Rules for returns, exchanges, and eligibility.
 
 - [Pricing & Discounts Policy](pricing_and_discounts.md)  
-  Rules regarding pricing consistency, discounts, and price adjustments.
+  Rules for pricing consistency, discounts, and adjustments.
 
 ---
 
-### Store Environment Policies
+## Store Environment
+
 - [Family-Friendly Environment](family_friendly.md)  
-  Expectations for language, behavior, and content within the store.
+  Enforced standards for language, behavior, and content.
 
 - [Customer Conduct](customer_conduct.md)  
-  Acceptable behavior for customers and when intervention is required.
+  Acceptable customer behavior and when staff must intervene.
 
 - [Store Cleanliness Expectations](cleanliness.md)  
-  Shared responsibility for maintaining a clean and welcoming space.
+  Required standards for maintaining the store environment.
 
 ---
 
-### Event Policies
+## Events
+
 - [Event Participation Rules](../events/event_participation.md)  
-  Expectations for players and staff during organized play.
+  Rules for players and staff during organized play.
 
 - [Prize Support Guidelines](../events/prize_support.md)  
-  How prizes are structured, distributed, and recorded.
+  Rules for prize structure, distribution, and tracking.
 
 ---
 
-Policies are subject to change. Additional policies may be added as needed to support store operations. Employees are responsible for staying informed and following all current policies. 
+Policies may be updated at any time. Employees are responsible for knowing and following all current policies.

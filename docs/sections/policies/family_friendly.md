@@ -1,85 +1,99 @@
 # Family-Friendly Environment Policy
 
-A&H Games is committed to maintaining a fun, welcoming, and family-friendly environment for all customers.
+## Purpose
 
-This includes creating a space where customers of all ages feel comfortable participating in games, events, and shopping activities.
+A&H Games operates as a family-friendly environment. This standard applies at all times, including regular store hours, events, and casual play.
 
-Employees are responsible for upholding this standard at all times.
-
----
-
-## General Expectations
-
-All customers and employees are expected to behave in a respectful and appropriate manner.
-
-This includes:
-- Respectful language  
-- Appropriate topics of conversation  
-- Consideration for the presence of children and families  
-
-Behavior that disrupts this environment may result in corrective action, including removal from the store.
+All customers and employees are expected to maintain an environment appropriate for all ages.
 
 ---
 
-## Profanity Policy
+## Standard
 
-Excessive or inappropriate profanity is not permitted within the store.
+"Family-friendly" is determined based on the situation.
 
-Employees are responsible for actively addressing profanity when it occurs.
+- Employees are responsible for determining whether language, content, or behavior is appropriate in the moment
+- Managers have final authority on all decisions related to this standard
 
-### Expectations
-
-- Customers should not use loud, excessive, or directed profanity  
-- Language that creates an uncomfortable environment for others is not allowed  
-- Repeated or intentional violations are not tolerated  
+If an employee determines something is not appropriate, it is not allowed.
 
 ---
 
-## Employee Responsibility
+## Prohibited Content and Behavior
 
-Employees are expected to intervene when profanity occurs.
+The following are examples of behavior that may violate this policy:
 
-When addressing profanity:
+### Language
+- Profanity or vulgar language
+- Sexual jokes, innuendo, or explicit discussion
+- Crude or offensive humor
 
-- Act promptly and professionally  
-- Clearly communicate expectations to the customer  
-- Maintain a calm and respectful tone  
+### Topics & Conversations
+- Sexual content or explicit topics
+- Graphic violence
+- Hate speech or discriminatory remarks
 
-Employees should not ignore behavior that violates this policy.
+### Media & Materials
+- Displaying explicit or inappropriate images or videos
+- Playing media with profanity or explicit content
+- Bringing or sharing inappropriate materials in the store
 
----
+### Behavior
+- Gestures or actions that are sexual, vulgar, or offensive
+- Harassment or inappropriate comments toward others
+- Any conduct that creates an uncomfortable environment
 
-## Escalation and Removal
-
-Employees have the authority to take immediate action when necessary.
-
-- Employees may request that a customer stop using inappropriate language  
-- If the behavior continues or is severe, employees may request that the customer leave the store immediately  
-
-Use judgment based on the situation, severity, and impact on others in the store.
-
----
-
-## Bans and Further Action
-
-If a customer is removed from the store:
-
-- Notify a manager as soon as possible  
-- Management will determine whether a ban is necessary  
-- Management will determine the duration and terms of any ban  
-
-Employees are not responsible for issuing bans, but are responsible for enforcing immediate expectations.
+This list is not exhaustive. Employees must use judgment.
 
 ---
 
-## Consistency and Enforcement
+## Borderline Behavior
 
-This policy must be applied consistently to all customers.
-
-- Do not make exceptions for regulars, friends, or event participants  
-- Address issues early before they escalate  
-- When in doubt, prioritize maintaining a safe and comfortable environment  
+- "Joking" or "not meaning anything by it" does not override this policy
+- If an employee addresses a behavior, it must stop immediately
+- Repeated borderline behavior is treated as a violation
 
 ---
 
-Maintaining a family-friendly environment is essential to the A&H Games experience. Employees are expected to uphold this standard and take appropriate action when necessary.
+## Enforcement
+
+Employees must enforce this policy at all times.
+
+- Violations must be addressed immediately
+- Employees may not ignore behavior that may violate this standard
+- When uncertain, employees must escalate to a manager
+
+Failure to enforce this policy is a policy violation and will result in disciplinary action.
+
+---
+
+## Enforcement Actions
+
+- Verbal warning
+- Removal from store
+- Ban (manager decision)
+
+Severe violations may result in immediate removal without warning.
+
+---
+
+## Employee Conduct
+
+Employees must:
+
+- Follow all standards in this policy while on shift
+- Set the example for customers
+- Avoid engaging in or encouraging inappropriate conversations
+
+Employees are held to a higher standard than customers.
+
+---
+
+## Summary
+
+- Employees determine what is appropriate in the moment
+- Managers make final decisions
+- If an employee says it is not appropriate, it must stop
+- Employees must act and enforce the standard
+
+This standard is not optional.

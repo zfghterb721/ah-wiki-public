@@ -1,32 +1,26 @@
 # Pricing and Discounts Policy
 
-This policy outlines how pricing and discounts are handled at A&H Games. These rules ensure consistency, fairness, and accuracy across all transactions.
+## Purpose
 
-Employees are expected to follow these guidelines at all times.
+This policy defines how pricing and discounts are handled at A&H Games.
+
+All pricing must be consistent, controlled, and approved. Employees may not make independent pricing decisions.
 
 ---
 
 ## General Pricing
 
-All items must be sold at their listed price.
+- All items must be sold at their listed price
+- Prices are determined by A&H Games systems and management
+- Employees may not adjust prices for any reason without manager approval
 
-- Prices are determined by A&H Games systems and management  
-- Price labels, system pricing, and marked values should match whenever possible  
-- If a discrepancy exists, employees should verify the correct price before completing the transaction  
+If a discrepancy exists:
 
-Employees may not adjust prices on their own.
+- Verify the price in the POS system
+- Confirm the correct item and version
+- Involve a manager if needed
 
----
-
-## Price Verification
-
-If a customer questions a price:
-
-- Verify the price in the POS system  
-- Confirm the correct item and version  
-- Check for labeling errors or mismatches  
-
-If a pricing issue cannot be resolved quickly, involve a manager.
+Transactions may not be completed using an unverified or assumed price.
 
 ---
 
@@ -34,11 +28,11 @@ If a pricing issue cannot be resolved quickly, involve a manager.
 
 If a pricing error is identified:
 
-- Do not honor incorrect prices without management approval  
-- Notify a manager immediately  
-- Correct the pricing issue as soon as possible  
+- Do not honor incorrect prices without manager approval
+- Notify a manager immediately
+- Do not attempt to resolve pricing disputes independently
 
-Management will determine how to proceed in each situation.
+Management determines all outcomes related to pricing errors.
 
 ---
 
@@ -46,10 +40,13 @@ Management will determine how to proceed in each situation.
 
 Discounts may only be applied when explicitly authorized.
 
-### Authorized Discounts May Include:
-- Employee discounts (as defined by company policy)  
-- Promotional discounts approved by management  
-- Event-related pricing or promotions  
+### Authorized Discounts
+
+- Employee discounts (as defined by company policy)
+- Promotions approved by management
+- Event-related pricing defined in advance
+
+Employees may not modify or reinterpret any discount.
 
 ---
 
@@ -57,26 +54,44 @@ Discounts may only be applied when explicitly authorized.
 
 The following are strictly prohibited:
 
-- Giving discounts to friends, family, or customers without approval  
-- Adjusting prices to “help out” a customer  
-- Applying discounts outside of defined promotions  
+- Giving discounts to friends, family, or specific customers
+- Adjusting prices to "help out" a customer
+- Creating unapproved deals or bundles
+- Applying discounts outside of defined promotions
+- Rounding down prices for any reason
+- Offering or accepting discounts based on payment method (including cash)
 
-Unauthorized discounts are considered a violation of company policy and may result in disciplinary action.
+Unauthorized discounts are a violation of company policy and will result in disciplinary action.
 
 ---
 
-### Cash Payments and Haggling
+## Haggling and Payment-Based Requests
 
-Customers may request discounts when paying with cash. Employees are not permitted to adjust pricing based on payment method.
+Pricing is not negotiable.
 
-- Cash payments do not qualify for discounts  
-- Prices are the same regardless of payment method  
-- Employees may not negotiate or “round down” prices  
+- Prices do not change based on payment method
+- Cash payments do not qualify for discounts
+- Employees may not negotiate, match offers, or make exceptions
 
-Any exception must be approved by management.
+A&H Games is a retail business with fixed pricing. Payment method does not reduce costs in a way that justifies discounts, and offering cash discounts creates inconsistency, accounting issues, and unfair pricing between customers.
 
-**Suggested response:**  
-"Prices are the same regardless of payment method, but I’m happy to help you find something within your budget."
+Customers may claim that paying cash saves fees or "helps the store." This does not change pricing policy.
+
+Employees must clearly refuse these requests.
+
+**Approved response:**
+"Prices are the same regardless of payment method. I can help you find something within your budget."
+
+Do not deviate from this response.
+
+---
+
+### Enforcement
+
+- Any discount given for cash payment is an unauthorized discount
+- Violations will be treated as financial misconduct
+
+Do not make exceptions.
 
 ---
 
@@ -84,8 +99,10 @@ Any exception must be approved by management.
 
 A&H Games does not guarantee price matching.
 
-- Employees may not match competitor or online prices without management approval  
-- Any exceptions must be approved by management  
+- Employees may not match competitor or online prices
+- Any exception requires manager approval
+
+Do not engage in price comparison discussions beyond stating policy.
 
 ---
 
@@ -93,19 +110,22 @@ A&H Games does not guarantee price matching.
 
 Prices may differ between online platforms and in-store pricing.
 
-- In-store purchases follow in-store pricing  
-- Online pricing does not automatically apply to in-store transactions  
-- Customers may be directed to purchase online if appropriate  
+- In-store purchases follow in-store pricing only
+- Online pricing does not apply to in-store transactions
+
+Customers may choose where to purchase. Employees may not adjust pricing to match platforms.
 
 ---
 
 ## Promotions
 
-Promotions must be applied as defined.
+Promotions must be applied exactly as defined.
 
-- Follow all terms and conditions of promotions  
-- Do not modify or extend promotions without approval  
-- Ensure promotions are applied consistently  
+- Follow all terms and conditions
+- Do not extend, modify, or interpret promotions
+- Apply promotions consistently to all customers
+
+If a promotion is unclear, stop and ask a manager.
 
 ---
 
@@ -113,13 +133,43 @@ Promotions must be applied as defined.
 
 Employees must:
 
-- Follow all pricing and discount policies  
-- Verify pricing when questions arise  
-- Avoid making exceptions without management approval  
-- Process all transactions accurately through the POS system  
+- Follow all pricing rules without exception
+- Use the POS system for all transactions
+- Verify pricing when questioned
+- Refuse unauthorized discounts and negotiation attempts
 
-When in doubt, defer to management.
+Employees may not:
+
+- Make pricing decisions independently
+- "Make exceptions"
+- Prioritize customer satisfaction over policy
 
 ---
 
-These policies ensure fairness for customers, consistency across transactions, and protection of A&H Games' business operations. Employees are expected to apply these rules consistently and professionally.
+## Enforcement
+
+Violations include:
+
+- Unauthorized discounts
+- Price adjustments without approval
+- Negotiating with customers
+- Failure to follow promotion rules
+
+### Escalation
+
+- First violation → Written warning
+- Second violation → Final warning
+- Continued violations → Termination
+
+Severe violations (including intentional financial misconduct) may result in immediate termination.
+
+---
+
+## Summary
+
+- Prices are fixed
+- Discounts must be approved
+- Negotiation is not allowed
+- Employees must enforce this policy
+
+If there is any uncertainty, stop and involve a manager.

@@ -45,6 +45,13 @@ You are not expected to know everything, but you should be able to guide custome
 
 ---
 
+### Video Games
+
+- [Miniatures Basics](video_games.md)  
+  DESCRIPTION NEEDED
+
+---
+
 ### Accessories
 
 - [Accessories Guide](accessories.md)  
