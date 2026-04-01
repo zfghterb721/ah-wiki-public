@@ -1,102 +1,184 @@
-# Prize Support Policy
+# Prize Support
 
-This policy outlines how prize support is structured, communicated, and distributed for events at A&H Games.
+Prize support must be predefined, controlled, and executed exactly as communicated.
 
-Prize support must be handled consistently and transparently to ensure fairness for all participants.
+Employees are responsible for ensuring prize support is handled consistently, accurately, and without deviation.
 
----
-
-## General Principles
-
-- Prize support is determined before the event begins  
-- Prize structures must be clearly communicated to participants  
-- All players are subject to the same prize rules  
-
-Prize support is based on event type, attendance, and store discretion.
+Once an event begins, prize support is final.
 
 ---
 
-## Prize Structure
+## Core Rules
 
-Before the event starts, employees must:
-
-- Communicate the prize structure clearly to all participants  
-- Confirm entry fees and prize distribution  
-- Answer any questions regarding payouts  
-
-Once the event begins, the prize structure is considered final.
+- Prize structure must be **defined before the event begins**
+- Prize structure must be **communicated clearly to all players**
+- Prize support must be **set aside before the event starts**
+- Prize distribution must match the **announced structure exactly**
+- Employees may not **modify prize support under any circumstances**
 
 ---
 
-## Types of Prize Support
+## Prize Structure Definition
+
+Before the event, employees must confirm:
+
+- Entry fee (fixed)
+- Total prize pool or structure
+- Distribution method (e.g., top cut, record-based, etc.)
+- Type of prizes (store credit, product, etc.)
+
+Employees may not:
+
+- Adjust prize support based on attendance after announcement
+- Add or remove prizes once communicated
+- Offer alternative prize options to specific players
+
+---
+
+## Communication Requirements
+
+Before the event begins, employees must:
+
+- Clearly announce:
+  - Entry fee
+  - Prize structure
+  - Distribution method
+
+- Answer all questions before the event starts
+
+Once the event begins:
+
+- The prize structure is final
+- No clarifications may alter the structure
+
+---
+
+## Prize Types
 
 Prize support may include:
 
-- Store credit  
-- Sealed product (packs, boxes, etc.)  
-- Promotional items  
-- Event-specific rewards  
+- Store credit
+- Sealed product
+- Promotional items
+- Event-specific rewards
 
-The type and amount of prize support may vary by event.
+The prize type must be defined before the event begins.
 
----
-
-## Distribution of Prizes
-
-Prizes are awarded based on the defined structure for the event.
-
-- Final standings determine prize distribution  
-- Players must complete the event requirements to receive prizes (if applicable)  
-- Prizes must be distributed as communicated  
-
-Employees must ensure that all prizes are recorded and distributed accurately.
+Employees may not substitute prize types without manager approval.
 
 ---
 
-## Splitting and Prize Agreements
+## Prize Preparation
 
-Players may request to split prizes among themselves.
+Before the event starts:
 
-- Prize splits are allowed only if all involved players agree  
-- Employees may facilitate the process but are not required to organize or suggest splits  
-- Any agreement must be clear and confirmed by all parties  
+- All prize support must be:
+  - Counted
+  - Verified
+  - Physically set aside
 
-Employees should not pressure players into prize splits.
+Employees may not:
+
+- Pull prizes from inventory during or after the event without prior allocation
+- Sell or reallocate reserved prize items
+
+---
+
+## Prize Distribution
+
+- Final standings determine prize distribution
+- Prizes must be awarded exactly as defined
+
+Employees must:
+
+- Verify final standings before distributing prizes
+- Distribute prizes immediately after event conclusion
+- Process all payouts correctly through the POS system
+
+Employees may not:
+
+- Adjust payouts
+- Round prizes up or down
+- Make exceptions for specific players
+
+---
+
+## Prize Splits
+
+Prize splits are allowed only under strict conditions.
+
+### Requirements
+
+- All involved players must agree clearly
+- The agreement must be confirmed before prizes are distributed
+
+Employees must:
+
+- Allow players to make their own agreements
+- Verify agreement before distributing prizes
+
+Employees may not:
+
+- Suggest, encourage, or pressure players to split prizes
+- Modify prize structure on behalf of players
+- Get involved beyond confirming agreement
 
 ---
 
 ## Leaving Early
 
-Players who leave an event early may forfeit prize eligibility.
+Players who leave early are subject to the defined prize structure.
 
-- Eligibility is determined by event structure and participation requirements  
-- Employees should communicate expectations clearly when relevant  
+Employees must:
+
+- Follow the announced structure exactly
+
+Employees may not:
+
+- Adjust prizes for players who leave early
+- Hold prizes for absent players without manager approval
 
 ---
 
 ## Disputes
 
-If a dispute arises regarding prize support:
+If a dispute occurs:
 
-- Refer to the announced prize structure  
-- Clarify any misunderstandings calmly and professionally  
-- Involve a manager if necessary  
-
-Prize structures are not subject to change after the event has started.
-
----
-
-## Employee Responsibility
+- Refer to the announced prize structure
+- Apply the structure exactly as defined
 
 Employees must:
 
-- Clearly communicate prize structures before the event begins  
-- Ensure consistent application of prize rules  
-- Avoid making exceptions without management approval  
-- Accurately process prize payouts through the POS system  
+- Resolve simple misunderstandings immediately
+- Escalate to a manager if necessary
 
-When in doubt, defer to management.
+Employees may not:
+
+- Modify prize structure to resolve disputes
+- Offer compromises or alternative payouts
 
 ---
 
-Prize support is an important part of the event experience. Consistency and transparency ensure fairness for all participants and help maintain trust in A&H Games events.
+## POS Handling
+
+All prize payouts involving store credit must:
+
+- Be processed through the POS system
+- Be recorded accurately
+
+Employees may not:
+
+- Issue untracked store credit
+- Delay recording payouts
+
+---
+
+## Non-Negotiable Rules
+
+- No changing prize structure after event start
+- No adjusting prizes for any reason
+- No exceptions for specific players
+- No unauthorized substitutions
+- No untracked payouts
+
+Failure to follow prize support procedures is a performance issue.
