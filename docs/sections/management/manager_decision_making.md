@@ -1,127 +1,211 @@
 # Manager Decision Making
 
-This document provides guidance for managers when handling situations that require judgment beyond standard policies and procedures.
+## Purpose
 
-Managers are responsible for making decisions that maintain consistency, protect the business, and support the customer experience.
+Managers are responsible for making clear, consistent decisions in all situations.
 
----
+Decisions must protect:
 
-## Core Principle
+- Store policies
+- Operational consistency
+- Fair treatment across all customers and employees
 
-When making a decision, prioritize:
-
-1. Store policy  
-2. Consistency  
-3. Customer experience  
-4. Business impact  
-
-Managers are expected to follow this order.
+When a situation is unclear, the manager must take control and make a decision immediately.
 
 ---
 
-## Role of a Manager
+## Core Principles
+
+Managers must:
+
+- Make decisions immediately when required
+- Base decisions on existing policies and procedures
+- Maintain consistency with past decisions
+- Prioritize store standards over customer satisfaction
+- Take full responsibility for outcomes
+
+Managers may not:
+
+- Avoid making a decision
+- Delay action when a situation requires resolution
+- Create exceptions without justification
+- Make inconsistent rulings between similar situations
+- Allow employees or customers to dictate outcomes
+
+---
+
+## No Gray Areas
+
+If a situation is not explicitly covered:
+
+- The manager must interpret existing policies
+- The manager must choose the outcome that best aligns with store standards
+
+Default rule:
+
+- When uncertain, enforce the stricter interpretation
+
+Managers may not:
+
+- Claim “there is no rule” as a reason to avoid enforcement
+- Create temporary or situational rules that conflict with existing standards
+
+---
+
+## Consistency Requirement
+
+Similar situations must result in similar decisions.
+
+Managers must:
+
+- Apply the same outcome to comparable situations
+- Align with prior decisions made by themselves or other managers
+- Communicate with other managers when inconsistencies are identified
+
+Managers may not:
+
+- Make case-by-case decisions that conflict with prior rulings
+- Adjust enforcement based on customer attitude, pressure, or persistence
+
+---
+
+## Customer Pressure
+
+Customers may attempt to influence decisions through:
+
+- Complaints
+- Persistence
+- Escalation requests
+- Claims of unfair treatment
+
+Managers must:
+
+- Remain firm in policy enforcement
+- Repeat the decision clearly and consistently
+- End the discussion when the decision has been communicated
+
+Managers may not:
+
+- Change decisions due to pressure
+- Offer unauthorized exceptions to resolve conflict
+- Negotiate policy enforcement
+
+---
+
+## Employee Escalation
+
+Employees must defer to manager decisions.
+
+Managers must:
+
+- Take control of situations when employees escalate issues
+- Provide a clear and final decision
+- Support employees who correctly followed policy
+
+Managers may not:
+
+- Undermine employees who enforced rules correctly
+- Reverse correct decisions to appease customers
+- Leave employees without direction in active situations
+
+---
+
+## Making the Decision
+
+When a situation arises, managers must:
+
+1. Identify the relevant policy or procedure
+2. Determine if the situation matches an existing standard
+3. Apply the standard directly
+
+If no direct match exists:
+
+4. Apply the closest applicable rule
+5. Default to stricter enforcement if uncertain
+6. Make a clear and final decision
+
+---
+
+## Communicating the Decision
+
+Decisions must be communicated:
+
+- Clearly
+- Directly
+- Without ambiguity
+
+Managers must:
+
+- State the decision
+- Reference the rule or reasoning
+- End the interaction once the decision is delivered
+
+Example structure:
+
+- “This is the policy.”
+- “We are not able to do that.”
+- “This is how we will proceed.”
+
+Managers may not:
+
+- Over-explain or justify excessively
+- Apologize for enforcing policy
+- Leave decisions open to interpretation
+
+---
+
+## Final Authority
+
+The manager on duty has final authority in the store.
+
+Managers must:
+
+- Take ownership of all decisions made during their shift
+- Ensure decisions are enforced immediately
+- Step in when employees are unable to resolve a situation
+
+Managers may not:
+
+- Defer decisions to employees
+- Leave decisions unresolved
+- Avoid accountability for outcomes
+
+---
+
+## Post-Decision Review
+
+After a decision is made, managers must:
+
+- Evaluate whether the situation exposed a gap in policy
+- Communicate with other managers if clarification is needed
+- Ensure future consistency for similar situations
+
+If needed:
+
+- The situation must be documented
+- Policies may be updated to prevent ambiguity
+
+---
+
+## Prohibited Practices
+
+Managers may not:
+
+- Invent policies on the spot
+- Make exceptions for convenience
+- Apply rules differently between customers or employees
+- Use “judgment calls” that contradict written standards
+- Allow repeated challenges to change a final decision
+
+---
+
+## Summary
 
 Managers are responsible for:
 
-- Enforcing policies and procedures  
-- Handling escalated situations  
-- Making decisions when guidance is unclear  
+- Making immediate decisions
+- Enforcing policies without exception
+- Maintaining consistency across all situations
+- Resisting pressure from customers or employees
 
-Managers are not responsible for creating new rules or exceptions without good reason.
-
----
-
-## Policy Enforcement
-
-- Policies should be followed in all normal situations  
-- Employees should not be allowed to bypass policies  
-- Managers should support employees who correctly enforce policies  
-
-Do not undermine employees who are following the rules.
-
----
-
-## When an Exception May Be Considered
-
-Exceptions should be rare and justified.
-
-Possible situations include:
-
-- A clear error made by the store  
-- A system issue preventing normal operation  
-- A situation where strict enforcement would create a significantly negative customer experience  
-
----
-
-## When NOT to Make Exceptions
-
-Do NOT make exceptions for:
-
-- Customer pressure or persistence  
-- Convenience or speed  
-- “Just this once” situations  
-- Regular customers or personal relationships  
-
-These create inconsistency and long-term problems.
-
----
-
-## How to Make an Exception
-
-If an exception is made:
-
-- Clearly explain the reason  
-- Keep it limited to the specific situation  
-- Ensure it does not set a new expectation  
-
-**Example:**  
-"I’m making an exception this time due to the issue, but this is not our standard policy."
-
----
-
-## Supporting Employees
-
-Managers should:
-
-- Back employees who correctly enforce policies  
-- Step in when a situation escalates  
-- Provide clear direction when employees are unsure  
-
-Employees should feel supported when following the rules.
-
----
-
-## Escalation
-
-If a situation is unclear or high-risk:
-
-- Pause the decision  
-- Consult ownership or another manager  
-- Avoid making a rushed decision  
-
----
-
-## Risk Awareness
-
-Before making a decision, consider:
-
-- Will this create inconsistency?  
-- Will this set a precedent?  
-- Could this result in financial loss?  
-- Could this undermine store policy?  
-
-If yes, do not proceed without further review.
-
----
-
-## Important Notes
-
-- Do NOT override policies casually  
-- Do NOT create new rules on the spot  
-- Do NOT allow exceptions to become routine  
-
-Consistency is critical to maintaining store standards.
-
----
-
-Good manager decision making protects the business, supports employees, and ensures a consistent experience for all customers.
+If decisions are inconsistent, unclear, or avoided, management failed to perform their role.

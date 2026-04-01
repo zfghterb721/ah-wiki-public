@@ -1,8 +1,14 @@
-# Store Operations Oversight
+# Operations Oversight
 
-This document outlines what managers should actively monitor and maintain during a shift at A&H Games.
+## Purpose
 
-Managers are responsible for ensuring the store is running smoothly across all areas at all times.
+Managers are responsible for ensuring the store is operating correctly at all times.
+
+Oversight is continuous and proactive.
+
+Managers must identify and correct issues before they impact operations.
+
+Failure to maintain operational control is a management failure.
 
 ---
 
@@ -10,23 +16,45 @@ Managers are responsible for ensuring the store is running smoothly across all a
 
 Managers are responsible for:
 
-- Maintaining store operations  
-- Monitoring employees and customers  
-- Ensuring policies and procedures are followed  
-- Identifying and addressing issues early  
+- Maintaining full operational control of the store
+- Monitoring employees, customers, and environment
+- Enforcing all policies and procedures
+- Identifying and correcting issues immediately
+- Maintaining consistent standards throughout the shift
 
 ---
 
-## The Manager Mindset
+## Manager Mindset
 
-Managers should continuously ask:
+Managers must continuously evaluate:
 
-- What needs attention right now?  
-- Are employees doing what they should be doing?  
-- Are customers being helped?  
-- Is anything starting to become a problem?  
+- What requires attention right now
+- Whether employees are performing correctly
+- Whether customers are being helped
+- Whether any issue is developing
 
-Do not become stationary or disengaged.
+Managers may not:
+
+- Become stationary or disengaged
+- Assume operations are running correctly without verification
+- Focus on a single area while ignoring the rest of the store
+
+---
+
+## Active Floor Presence
+
+Managers must:
+
+- Move throughout the store consistently
+- Maintain visibility to employees and customers
+- Position themselves where they can observe key areas
+- Intervene immediately when needed
+
+Managers may not:
+
+- Remain behind the counter for extended periods
+- Stay in back areas while the floor is active
+- Rely on employees to self-manage operations
 
 ---
 
@@ -34,117 +62,209 @@ Do not become stationary or disengaged.
 
 ### Employees
 
-- Are employees engaged and productive?  
-- Are procedures being followed correctly?  
-- Are customers being acknowledged and assisted?  
+Managers must ensure:
 
-Address issues as they arise.
+- Employees are engaged and productive
+- Procedures are followed correctly
+- Customers are acknowledged and assisted
+
+Managers must correct:
+
+- Idle behavior
+- Incorrect processes
+- Lack of customer engagement
 
 ---
 
 ### Customers
 
-- Are customers being greeted?  
-- Does anyone look confused or need help?  
-- Is anyone becoming disruptive or uncomfortable?  
+Managers must ensure:
 
-Step in early before issues escalate.
+- Customers are acknowledged promptly
+- Customers receive assistance when needed
+- No customer is ignored or left waiting unnecessarily
+
+Managers must:
+
+- Identify confusion or hesitation early
+- Step in before issues escalate
+- Address disruptive behavior immediately
 
 ---
 
 ### Register and Transactions
 
-- Are transactions being handled correctly?  
-- Are employees following pricing and discount policies?  
-- Are there errors or confusion at the register?  
+Managers must ensure:
 
-Accuracy is critical.
+- Transactions are accurate
+- Pricing and discount policies are followed exactly
+- No unauthorized discounts are applied
+
+Managers must intervene immediately if:
+
+- An employee is unsure
+- A transaction is incorrect
+- A policy is being violated
+
+Accuracy is mandatory.
 
 ---
 
 ### Store Environment
 
-- Is the store clean and organized?  
-- Are shelves stocked and presentable?  
-- Are play areas under control?  
+Managers must ensure:
 
-Maintain a clean, welcoming environment.
+- The store remains clean and organized at all times
+- Shelves are stocked and presentable
+- Play areas are controlled and orderly
+
+Managers must correct:
+
+- Clutter
+- Trash or unclean areas
+- Disorganized product displays
+
+Cleanliness is not optional.
 
 ---
 
 ### Events
 
-- Are events running on time?  
-- Are players following rules and expectations?  
-- Are issues being addressed promptly?  
+Managers must ensure:
 
-Events should feel organized and controlled.
+- Events start on time
+- Rules are enforced consistently
+- Participants follow expectations
+- Issues are resolved immediately
+
+Events must remain:
+
+- Organized
+- Controlled
+- Fair
+
+Managers must take control of any disruption immediately.
 
 ---
 
-## Flow of the Store
+## Store Flow Awareness
 
-Managers should maintain awareness of:
+Managers must monitor:
 
-- Busy periods  
-- Customer traffic  
-- Bottlenecks (register lines, crowded areas)  
+- Customer traffic levels
+- Register lines and wait times
+- Crowded or blocked areas
+- Shifts in activity levels
 
-Adjust focus as needed.
+Managers must:
+
+- Adjust focus based on current needs
+- Move to areas where attention is required
+- Prevent bottlenecks before they worsen
 
 ---
 
 ## Proactive Management
 
-- Address small issues before they grow  
-- Check in with employees regularly  
-- Move throughout the store consistently  
+Managers must:
 
-Do not wait for problems to become obvious.
+- Address small issues immediately
+- Check in with employees regularly
+- Re-evaluate conditions throughout the shift
+
+Managers may not:
+
+- Wait for problems to become obvious
+- Ignore early warning signs
+- Assume issues will resolve without action
 
 ---
 
 ## Prioritization
 
-When multiple things need attention:
+When multiple issues require attention, managers must prioritize:
 
 1. Customer needs  
 2. Safety and behavior issues  
-3. Transactions and register  
-4. Store condition and tasks  
+3. Transactions and register accuracy  
+4. Store condition and operational tasks  
 
-Focus on what impacts the customer experience first.
+Managers must address higher priority issues first.
 
 ---
 
-## Intervention
+## Intervention Standard
 
-Managers should step in when:
+Managers must step in immediately when:
 
-- An employee is struggling  
-- A customer issue is escalating  
-- A policy is not being followed  
+- An employee is struggling or making errors
+- A customer requires assistance or is becoming frustrated
+- A policy or procedure is not being followed
+- An issue is beginning to escalate
 
-Be direct and take control when necessary.
+Intervention must be:
+
+- Immediate
+- Direct
+- Controlled
+
+Managers may not delay intervention.
 
 ---
 
 ## Consistency
 
-- Maintain the same standards across all shifts  
-- Do not allow standards to drop during slow periods  
-- Ensure expectations are always upheld  
+Managers must:
+
+- Maintain the same standards across all shifts
+- Enforce expectations equally at all times
+- Prevent standards from dropping during slow periods
+
+Managers may not:
+
+- Relax standards based on time, volume, or convenience
+- Allow inconsistent enforcement
 
 ---
 
-## Important Notes
+## Continuous Oversight
 
-- Do NOT remain behind the counter for the entire shift  
-- Do NOT assume things are fine without checking  
-- Do NOT allow issues to go unaddressed  
+Oversight must occur:
 
-Stay active, aware, and engaged.
+- At all times during the shift
+- Across all areas of the store
+- Without gaps in attention
+
+Managers must constantly cycle focus between:
+
+- Employees
+- Customers
+- Transactions
+- Environment
+- Events
 
 ---
 
-Effective oversight ensures consistent operations, supports employees, and creates a positive experience for all customers.
+## Prohibited Practices
+
+Managers may not:
+
+- Remain disengaged from store operations
+- Assume tasks are being completed correctly
+- Ignore operational issues
+- Allow standards to drop at any time
+- Delay addressing visible problems
+
+---
+
+## Summary
+
+Managers are responsible for:
+
+- Maintaining full control of store operations
+- Actively monitoring all areas of the store
+- Correcting issues immediately
+- Preventing problems before they develop
+- Enforcing consistent standards at all times
+
+If operations are disorganized, inconsistent, or reactive, management failed to perform their role.

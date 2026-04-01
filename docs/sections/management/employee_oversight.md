@@ -1,147 +1,305 @@
 # Employee Oversight
 
-This document outlines how managers supervise, support, and hold employees accountable at A&H Games.
+## Purpose
 
-Managers are responsible for maintaining consistent performance and ensuring all employees meet store expectations.
+Managers are responsible for maintaining employee performance at all times.
 
----
+Oversight is active, not reactive.
 
-## Core Responsibility
-
-Managers are responsible for:
-
-- Monitoring employee performance  
-- Providing guidance and correction  
-- Enforcing policies and procedures  
-- Maintaining a consistent standard across all employees  
+Failure to enforce standards is a management failure.
 
 ---
 
-## Leading by Example
+## Core Expectations
 
-Managers must model expected behavior at all times.
+Managers must:
 
-- Follow all policies and procedures  
-- Maintain professionalism  
-- Demonstrate strong customer service  
+- Monitor employee behavior continuously during shifts
+- Correct issues immediately when observed
+- Enforce all policies and procedures without exception
+- Maintain consistent expectations across all employees
+- Address problems directly, not later
+- Prevent small issues from becoming normalized behavior
 
-Employees will follow the example set by management.
+Managers may not:
 
----
-
-## Monitoring Performance
-
-Managers should actively observe employees during shifts.
-
-- Customer interaction  
-- Register accuracy  
-- Store awareness  
-- Task completion  
-
-Do not assume tasks are being done correctly — verify through observation.
+- Ignore violations
+- Delay correction until after the shift
+- Allow exceptions not supported by policy
+- Enforce rules inconsistently between employees
+- Avoid addressing issues due to discomfort
 
 ---
 
-## Providing Feedback
+## Authority Scope
 
-Feedback should be:
+Managers:
 
-- Clear  
-- Direct  
-- Timely  
+- Have authority over employees at their assigned location
+- May require any employee to leave the store immediately if necessary
+- May not issue formal discipline to employees from another location
 
-Address issues as they occur rather than waiting.
+If an issue involves an employee from another location:
 
----
-
-### Correcting Behavior
-
-When correcting an issue:
-
-- Explain what was incorrect  
-- Explain what should be done instead  
-- Keep the conversation focused and professional  
-
-**Example:**  
-"Make sure you're checking the price in the system before completing the sale."
+- The observing manager must address the behavior immediately in the moment
+- The observing manager must report the issue to that employee’s assigned manager
+- The assigned manager is responsible for formal follow-up and documentation
 
 ---
 
-### Reinforcing Good Behavior
+## Real-Time Oversight
 
-- Acknowledge when employees perform well  
-- Reinforce correct actions and habits  
+Managers must actively observe:
 
-Positive reinforcement helps build consistency.
+- Customer interactions
+- POS usage and transactions
+- Event execution and rule enforcement
+- Cleanliness and store condition
+- Adherence to procedures
+
+Oversight must occur throughout the shift.
+
+Managers must position themselves where they can see and hear what is happening on the floor.
+
+---
+
+## Immediate Correction Standard
+
+All violations must be addressed immediately.
+
+This includes:
+
+- Policy violations
+- Procedure deviations
+- Poor customer interactions
+- Missed responsibilities
+- Incorrect information given to customers
+
+Managers must not:
+
+- “Let it go” for later discussion
+- Wait until the end of the shift
+- Assume the employee will self-correct
+
+---
+
+## Correction Method
+
+Corrections must be:
+
+- Direct
+- Clear
+- Specific
+- Actionable
+
+Managers must:
+
+- State what was incorrect
+- State the correct behavior
+- Require immediate adjustment
+
+Approved structure:
+
+- “That action was incorrect because [reason].”
+- “The correct process is [specific instruction].”
+- “Do it this way moving forward.”
+
+Guidance:
+
+- Minor corrections may be delivered immediately on the floor
+- Sensitive or repeated issues must be addressed privately when possible
+- Urgency overrides privacy — do not delay correction to relocate
+
+Managers may not:
+
+- Be vague
+- Suggest instead of instruct
+- Soften corrections to avoid discomfort
+
+---
+
+## Documentation Requirement
+
+All corrections must be documented.
+
+This includes:
+
+- Minor corrections
+- Major violations
+- Repeated issues
+- Patterns of behavior
+
+Documentation must:
+
+- Be completed the same day
+- Be factual and specific
+- Include what occurred, what was said, and the outcome
+
+Failure to document is a management failure.
+
+---
+
+## Discipline Structure
+
+All employee discipline follows this structure:
+
+1. Verbal Warning  
+2. Written Warning  
+3. Final Warning  
+4. Termination (ownership approval required)
+
+Rules:
+
+- Managers must follow this progression unless severity justifies escalation
+- Skipping steps requires clear justification and documentation
+- Repeated issues must move forward in the escalation structure
+- Resetting progression without justification is not allowed
+
+---
+
+## Escalation Rules
+
+Escalation must occur when:
+
+- The same issue repeats
+- The employee fails to adjust after correction
+- The issue impacts customers, operations, or staff
+
+Managers must:
+
+- Clearly state that escalation is occurring
+- Reference prior corrections
+- Define expectations moving forward
+
+Managers may not:
+
+- Continue issuing the same level of warning repeatedly
+- Allow behavior to persist without escalation
+
+---
+
+## Repeated Issues
+
+If an employee repeats a mistake:
+
+- The issue must be addressed again immediately
+- The correction must be more direct
+- The discipline level must escalate
+
+Managers must confirm understanding before allowing the employee to continue.
+
+---
+
+## Consistency Across Employees
+
+Standards must be identical for all employees.
+
+Managers must:
+
+- Enforce the same rules for every employee
+- Correct the same behavior every time it occurs
+- Avoid favoritism or leniency
+
+If one employee is corrected for a behavior, all employees must be held to that same standard.
+
+---
+
+## Preventing Standard Drift
+
+Uncorrected behavior becomes accepted behavior.
+
+Managers must:
+
+- Address minor issues immediately
+- Re-correct behavior every time it appears
+- Reinforce correct behavior consistently
+
+“Small” violations are not optional to enforce.
 
 ---
 
 ## Accountability
 
-Managers must hold employees accountable for:
+Managers are responsible for employee performance during their shift.
 
-- Following policies  
-- Following procedures  
-- Maintaining professionalism  
+If an employee:
 
-Do not ignore repeated issues.
+- Violates policy
+- Executes procedures incorrectly
+- Provides poor customer service
 
----
-
-## Consistency
-
-- Apply expectations equally to all employees  
-- Do not make exceptions based on familiarity or preference  
-- Maintain the same standards across all shifts  
-
-Inconsistency creates confusion and weakens store standards.
+Then the manager on duty is accountable for not correcting it.
 
 ---
 
-## Addressing Repeated Issues
+## Cross-Location Consistency
 
-If an issue continues:
+All locations must operate under identical standards.
 
-- Clearly restate expectations  
-- Document the issue if necessary  
-- Escalate according to store policy  
+Managers must:
 
-Managers are responsible for ensuring issues are corrected.
+- Enforce the same rules regardless of location
+- Avoid creating location-specific exceptions
+- Communicate issues between locations immediately
 
----
-
-## Escalation
-
-Escalate when:
-
-- An employee repeatedly fails to meet expectations  
-- A serious policy violation occurs  
-- Behavior impacts store operations or customer experience  
-
-Follow appropriate disciplinary procedures.
+Differences in enforcement must be corrected immediately.
 
 ---
 
-## Supporting Employees
+## Manager Presence
 
-Managers should:
+Managers must maintain visible authority on the floor.
 
-- Answer questions  
-- Provide clarification  
-- Help employees improve  
+Managers must:
 
-The goal is to develop employees, not just correct them.
+- Be accessible to employees
+- Be aware of ongoing activity
+- Step in immediately when issues arise
 
----
+Managers may not:
 
-## Important Notes
-
-- Do NOT ignore issues to avoid discomfort  
-- Do NOT allow inconsistent behavior  
-- Do NOT delay feedback  
-
-Address issues early and clearly.
+- Remain disengaged from floor operations
+- Stay in back areas while issues occur
+- Rely on employees to self-manage critical situations
 
 ---
 
-Effective employee oversight ensures consistency, improves performance, and maintains the standards of A&H Games.
+## Removal From Shift
+
+Managers may require an employee to leave immediately if:
+
+- Behavior is disruptive
+- Policies are being ignored
+- The employee refuses to follow direction
+- The situation risks customers, staff, or operations
+
+This action must:
+
+- Be documented immediately
+- Be communicated to ownership and the assigned manager
+
+---
+
+## Termination Authority
+
+Managers may not terminate employees independently.
+
+Termination:
+
+- Requires ownership approval
+- Must be supported by documented history
+- Must follow escalation unless severity justifies immediate action
+
+---
+
+## Summary
+
+Managers are responsible for:
+
+- Immediate correction
+- Full documentation
+- Consistent enforcement
+- Active oversight
+- Escalation when required
+
+If standards slip, management failed to enforce them.

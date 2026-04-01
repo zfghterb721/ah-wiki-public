@@ -1,142 +1,286 @@
-# Incident and Escalation
+# Incident Handling
 
-This document outlines how managers should handle serious incidents, escalations, and situations requiring removal or further action.
+## Purpose
 
-Managers are responsible for maintaining a safe, controlled, and professional environment at all times.
+Managers are responsible for handling all incidents immediately, consistently, and decisively.
 
----
+Incidents must be controlled before they escalate.
 
-## What Is an Incident
-
-An incident includes, but is not limited to:
-
-- Disruptive or aggressive behavior  
-- Harassment or inappropriate language  
-- Refusal to follow store policies  
-- Theft or suspected theft  
-- Safety concerns  
-- Any situation that negatively impacts customers or staff  
+Failure to take control of a situation is a management failure.
 
 ---
 
-## Core Responsibilities
+## Definition of an Incident
+
+An incident includes any situation that disrupts or threatens:
+
+- Customer experience
+- Employee performance
+- Store operations
+- Safety or cleanliness standards
+- Policy enforcement
+
+This includes, but is not limited to:
+
+- Customer disputes or complaints
+- Rule violations during events
+- Disruptive behavior
+- Employee conflicts
+- Refusal to follow store policies
+- Safety concerns
+
+---
+
+## Core Expectations
 
 Managers must:
 
-- Act quickly and calmly  
-- Maintain control of the situation  
-- Protect employees and customers  
-- Enforce store policies  
+- Take control of the situation immediately
+- Be present and visible during the incident
+- Enforce policies without exception
+- Resolve the situation clearly and quickly
+- Maintain authority at all times
+
+Managers may not:
+
+- Ignore or delay response
+- Allow situations to escalate unnecessarily
+- Avoid involvement due to discomfort
+- Allow employees to handle serious incidents alone
 
 ---
 
-## Initial Response
+## Immediate Response
 
-When an incident occurs:
+When an incident occurs, managers must:
 
-- Stay calm and professional  
-- Assess the situation  
-- Do not escalate emotionally  
-- Position yourself between the issue and other customers if needed  
+1. Approach the situation immediately
+2. Assess what is happening
+3. Take control of the interaction
+4. Direct all involved parties clearly
 
----
+Managers must not wait for:
 
-## Addressing the Situation
-
-- Clearly state the issue  
-- Reference store policy if applicable  
-- Give a direct instruction  
-
-**Example:**  
-"You need to stop using that language or you will be asked to leave."
+- The situation to resolve itself
+- Additional complaints
+- Someone else to intervene
 
 ---
 
-## Removing a Customer
-
-A customer may be asked to leave if they:
-
-- Continue disruptive behavior  
-- Refuse to follow store policies  
-- Create an unsafe or uncomfortable environment  
-
-When removing a customer:
-
-- Be direct and clear  
-- Do not argue or negotiate  
-- Do not engage in prolonged discussion  
-
-**Example:**  
-"You need to leave the store now."
-
----
-
-## When to Escalate Further
-
-Escalate immediately if:
-
-- The situation becomes threatening  
-- The customer refuses to leave  
-- There is risk of physical harm  
-- Theft or criminal behavior is involved  
-
-Contact appropriate authorities if necessary.
-
----
-
-## Bans
-
-Managers may remove a customer for the day.
-
-Long-term bans should be:
-
-- Reported to ownership  
-- Documented  
-- Approved before being enforced  
-
----
-
-## Supporting Employees
+## Control of the Situation
 
 Managers must:
 
-- Step in when employees are uncomfortable  
-- Take control of escalated situations  
-- Ensure employees are not left to handle serious incidents alone  
+- Speak clearly and directly
+- Set expectations immediately
+- Interrupt escalation if necessary
+- Separate individuals if needed
+
+If multiple parties are involved:
+
+- Control the conversation
+- Do not allow overlapping arguments
+- Address one person at a time
+
+---
+
+## Enforcement of Rules
+
+All incidents must be resolved using existing policies.
+
+Managers must:
+
+- Identify the violated rule
+- State the rule clearly
+- Enforce the outcome immediately
+
+Managers may not:
+
+- Negotiate policy enforcement
+- Make exceptions to resolve conflict
+- Ignore violations to avoid escalation
+
+---
+
+## Escalation of Response
+
+Managers must escalate response based on behavior.
+
+### Step 1 — Verbal Direction
+
+- Clearly state the issue
+- Provide instruction to correct behavior
+
+### Step 2 — Formal Warning
+
+- State that behavior is unacceptable
+- Inform the individual that continued behavior will result in removal
+
+### Step 3 — Removal
+
+- Require the individual to leave the store immediately
+
+Managers must escalate without hesitation if behavior continues.
+
+Severity may justify skipping steps.
+
+---
+
+## Removal from Store
+
+Managers must require a person to leave if:
+
+- They refuse to follow direction
+- They continue disruptive behavior
+- They violate policies after warning
+- They create an unsafe or hostile environment
+
+Removal must be:
+
+- Immediate
+- Direct
+- Non-negotiable
+
+Managers must not:
+
+- Continue debating after removal is decided
+- Allow the individual to remain after refusal
+
+---
+
+## Refusal to Leave
+
+If an individual refuses to leave:
+
+- Repeat the instruction clearly
+- Do not engage in extended argument
+- Prepare to escalate the situation
+
+Managers must prioritize safety and control.
+
+---
+
+## Employee Incidents
+
+If an employee is involved:
+
+- The manager must take control immediately
+- The employee must follow all directions without resistance
+- The issue must be documented
+
+If necessary:
+
+- The employee may be removed from the shift
+
+Employee behavior is held to a higher standard than customers.
+
+---
+
+## Customer Complaints
+
+When handling complaints:
+
+- Listen briefly to understand the issue
+- Identify whether policy was followed
+- Provide a clear decision
+
+If policy was followed:
+
+- Support the employee
+- Reinforce the decision
+
+If policy was not followed:
+
+- Correct the issue
+- Address the employee separately
+
+Managers may not:
+
+- Undermine correct employee actions
+- Offer unauthorized compensation
+- Change outcomes to appease complaints
+
+---
+
+## Event Incidents
+
+During events, managers must:
+
+- Enforce event rules strictly
+- Maintain fairness across all participants
+- Resolve disputes immediately
+
+If a participant:
+
+- Violates rules
+- Disrupts the event
+- Refuses to comply
+
+They may be removed from the event or store.
+
+---
+
+## Safety Incidents
+
+If safety is involved:
+
+- Take immediate control
+- Remove any immediate risk
+- Clear the area if necessary
+
+Managers must prioritize safety over all other considerations.
 
 ---
 
 ## Documentation
 
-After an incident:
+All incidents must be documented.
 
-- Document what happened  
-- Include:
-  - Date and time  
-  - Individuals involved  
-  - Description of behavior  
-  - Actions taken  
+Documentation must include:
 
-Accurate documentation protects the store and staff.
+- Date and time
+- Individuals involved
+- Description of the incident
+- Actions taken
+- Outcome
 
----
+Documentation must be completed the same day.
 
-## Consistency
-
-- Apply rules consistently  
-- Do not allow behavior from one customer that would not be allowed from another  
-- Avoid personal bias  
+Failure to document is a management failure.
 
 ---
 
-## Important Notes
+## Communication
 
-- Do NOT ignore disruptive behavior  
-- Do NOT argue or escalate emotionally  
-- Do NOT make threats you cannot enforce  
+Managers must:
 
-Stay calm, be direct, and enforce policy.
+- Inform relevant managers of significant incidents
+- Communicate cross-location issues when applicable
+- Ensure follow-up actions are clear
 
 ---
 
-Proper incident handling ensures a safe environment and maintains the standards of A&H Games.
+## Prohibited Practices
+
+Managers may not:
+
+- Ignore incidents
+- Delay response
+- Allow repeated disruptive behavior
+- Make exceptions to avoid conflict
+- Lose control of the situation
+- Leave incidents unresolved
+
+---
+
+## Summary
+
+Managers are responsible for:
+
+- Immediate response
+- Clear control of situations
+- Consistent enforcement of rules
+- Escalation when required
+- Full documentation
+
+If an incident escalates or is handled inconsistently, management failed to perform their role.

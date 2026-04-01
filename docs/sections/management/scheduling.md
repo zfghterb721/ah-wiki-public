@@ -1,31 +1,53 @@
-# Scheduling and Coverage
+# Scheduling
 
-This document outlines expectations for creating schedules, managing shift coverage, and handling attendance issues at A&H Games.
+## Purpose
 
-Managers are responsible for maintaining consistent staffing and ensuring all shifts are properly covered.
+Managers are responsible for creating, maintaining, and enforcing schedules.
+
+Schedules must ensure full coverage, consistency, and accountability.
+
+Failure to maintain proper scheduling is a management failure.
 
 ---
 
 ## Core Responsibilities
 
-Managers are responsible for:
+The scheduling manager is responsible for:
 
-- Creating and maintaining schedules  
-- Ensuring all shifts are covered  
-- Addressing attendance issues  
-- Communicating schedule changes clearly  
+- Creating and publishing schedules
+- Ensuring all shifts are covered
+- Managing shift changes and coverage
+- Enforcing attendance standards
+- Communicating all schedule-related information clearly
 
 ---
 
 ## Schedule Creation
 
-When creating schedules:
+Schedules must:
 
-- Ensure adequate coverage for all operating hours  
-- Account for events and expected busy periods  
-- Balance employee availability and store needs  
+- Be posted at least one week in advance
+- Cover all operating hours without gaps
+- Account for events and expected busy periods
+- Align staffing levels with store needs, not employee preference
 
-Schedules should be created and shared in advance whenever possible.
+Managers may not:
+
+- Create schedules that leave shifts understaffed
+- Delay schedule posting without justification
+- Prioritize convenience over operational needs
+
+---
+
+## Cross-Location Scheduling
+
+Employees may be scheduled at either location.
+
+Managers must:
+
+- Ensure clarity on which location an employee is assigned to
+- Avoid scheduling conflicts between locations
+- Communicate clearly when employees are assigned outside their primary location
 
 ---
 
@@ -33,97 +55,165 @@ Schedules should be created and shared in advance whenever possible.
 
 Employees are responsible for:
 
-- Knowing their schedule  
-- Arriving on time  
-- Finding coverage for shifts they cannot work  
+- Knowing their schedule
+- Arriving on time
+- Securing coverage for shifts they cannot work
 
-Managers should not be responsible for finding coverage for employees.
-
----
-
-## Shift Coverage
-
-If an employee cannot work a shift:
-
-- They must find a replacement  
-- The replacement must be approved by a manager  
-- The manager must be notified in advance  
-
-Unapproved shift swaps are not allowed.
+Managers are not responsible for finding coverage for employee absences.
 
 ---
 
-## Last-Minute Issues
+## Shift Changes and Swaps
 
-If coverage cannot be found:
+Shift swaps:
 
-- The employee must notify a manager immediately  
-- The manager will determine how to proceed  
+- Require manager approval
+- Must be confirmed before the shift occurs
+- Must not create coverage gaps
 
-Managers may need to:
+Unapproved swaps are not allowed.
 
-- Adjust staffing  
-- Cover the shift  
-- Modify store operations if necessary  
+Managers must:
 
----
-
-## Attendance Issues
-
-Managers should monitor:
-
-- Tardiness  
-- Absences  
-- Patterned behavior  
-
-Repeated issues should be addressed promptly.
+- Approve or deny requests clearly
+- Ensure the replacement employee is qualified and aware of the shift
 
 ---
 
-## Handling Tardiness
+## Coverage Failures
+
+If an employee cannot find coverage:
+
+- The employee must notify a manager immediately
+- The manager will determine how to proceed
+
+Managers may:
+
+- Reassign staff
+- Cover the shift
+- Adjust store operations if necessary
+
+Managers must not:
+
+- Ignore uncovered shifts
+- Assume coverage will resolve itself
+
+---
+
+## Overtime
+
+Overtime is restricted.
+
+Overtime:
+
+- Requires manager approval in advance
+- Must only be used when necessary for operations
+
+Managers must:
+
+- Monitor hours to prevent unapproved overtime
+- Not allow employees to work beyond scheduled hours without approval
+
+---
+
+## Attendance Monitoring
+
+Managers must actively monitor:
+
+- Tardiness
+- Absences
+- No-call/no-show incidents
+- Repeated patterns of behavior
+
+All attendance issues must be addressed and documented.
+
+---
+
+## Tardiness
 
 If an employee is late:
 
-- Address the issue directly  
-- Reinforce expectations  
-- Document if necessary  
+- Address the issue immediately
+- Reinforce expectations
+- Document the incident
+
+Repeated tardiness must escalate through the discipline structure.
 
 ---
 
-## Handling Absences
+## Absences
 
-If an employee does not show up:
+If an employee is absent:
 
-- Attempt to contact the employee  
-- Arrange coverage if possible  
-- Document the incident  
+- Contact the employee immediately
+- Arrange coverage if possible
+- Document the incident
 
-No-call/no-show situations should be escalated.
+Absences must not be ignored or treated informally.
+
+---
+
+## No-Call / No-Show
+
+A no-call/no-show is a serious violation.
+
+Managers must:
+
+- Attempt immediate contact
+- Document the incident
+- Escalate discipline
+
+Repeated no-call/no-show incidents must move quickly through escalation.
 
 ---
 
 ## Communication
 
-- Communicate schedule changes clearly  
-- Confirm employees are aware of updates  
-- Use approved communication channels  
+Managers must:
+
+- Communicate schedules clearly when posted
+- Communicate all changes immediately
+- Confirm employees are aware of updates
+
+Managers may not:
+
+- Assume employees saw schedule changes
+- Rely on informal or unclear communication
 
 ---
 
 ## Consistency
 
-- Apply scheduling expectations equally to all employees  
-- Do not make exceptions based on preference  
-- Maintain fairness and consistency  
+Scheduling standards must be applied equally.
+
+Managers must:
+
+- Enforce the same expectations for all employees
+- Avoid favoritism
+- Maintain consistent approval standards for swaps and requests
 
 ---
 
-## Important Notes
+## Prohibited Practices
 
-- Do NOT tolerate repeated attendance issues without action  
-- Do NOT allow unapproved shift swaps  
-- Do NOT rely on assumptions — confirm coverage  
+Managers may not:
+
+- Allow unapproved shift swaps
+- Ignore attendance issues
+- Delay addressing coverage problems
+- Allow employees to bypass scheduling rules
+- Approve overtime without justification
 
 ---
 
-Effective scheduling ensures smooth operations and reduces stress for both employees and management.
+## Summary
+
+Managers are responsible for:
+
+- Creating schedules in advance
+- Ensuring full shift coverage
+- Enforcing attendance standards
+- Approving all changes
+- Maintaining consistency across all employees
+
+If shifts are uncovered, attendance issues persist, or standards are inconsistent, management failed to enforce scheduling requirements.
