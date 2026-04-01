@@ -1,119 +1,205 @@
-# Customer Service Expectations
+# Customer Service
 
-This document outlines how employees should interact with customers at A&H Games.
+This document defines how employees must interact with customers at A&H Games.
 
-The goal is to provide a welcoming, helpful, and consistent experience for every customer.
-
----
-
-## First Impressions
-
-- ☐ Greet customers when they enter the store  
-- ☐ Make eye contact and acknowledge their presence  
-- ☐ Be approachable and available  
-
-A simple greeting goes a long way.
-
-**Suggested response:**  
-"Hey! Let me know if you need anything."
+Customer service is not optional. Every interaction must meet these standards.
 
 ---
 
-## Availability
+## Core Standard
 
-- ☐ Be present and attentive  
-- ☐ Stay aware of customers in the store  
-- ☐ Offer help when appropriate  
+Every customer must receive:
 
-Do not wait to be asked if a customer clearly needs assistance.
+- Immediate acknowledgment
+- Clear and accurate assistance
+- Professional and respectful communication
+- A consistent experience across both locations
 
----
-
-## Helping Customers
-
-- ☐ Listen to what the customer is looking for  
-- ☐ Ask clarifying questions if needed  
-- ☐ Provide accurate information  
-
-If you don’t know the answer:
-- Be honest  
-- Ask another employee or look it up  
-
-Do not guess.
+Employees are responsible for delivering this standard at all times.
 
 ---
 
-## Product Knowledge
+## Customer Acknowledgment
 
-- ☐ Be familiar with common products and categories  
-- ☐ Understand basic differences between product types  
-- ☐ Help guide customers based on their needs  
+Every customer must be acknowledged immediately upon entering the store.
 
-You are not expected to know everything, but you should be willing to learn.
+Employees must:
+- Acknowledge customers verbally or with clear eye contact
+- Acknowledge customers even if currently assisting someone else
+
+If occupied, employees must clearly communicate that they will assist shortly.
+
+Examples:
+- "I'll be right with you."
+- "Hey, I'll be with you in just a minute."
+
+Employees may not:
+- Ignore entering customers
+- Delay acknowledgment for any reason
 
 ---
 
-## Communication
+## Active Availability
 
-- ☐ Speak clearly and respectfully  
-- ☐ Keep explanations simple and direct  
-- ☐ Avoid slang or language that may be inappropriate  
+Employees must remain visibly available and attentive at all times.
 
-Maintain a tone that supports a family-friendly environment.
+Employees must:
+- Stay aware of all customers in the store
+- Position themselves where customers can easily approach
+- Offer assistance when a customer appears to need help
+
+Employees may not:
+- Wait for customers to initiate every interaction
+- Avoid engagement by staying behind the counter or focused on tasks
 
 ---
 
-## Professionalism
+## Providing Assistance
 
-- ☐ Stay focused while on shift  
-- ☐ Limit personal phone use  
-- ☐ Avoid distractions during customer interactions  
+Employees must actively help customers find what they need.
 
-Customers should feel like they have your attention.
+Employees must:
+- Listen fully before responding
+- Ask clarifying questions when necessary
+- Provide direct and accurate information
+
+If the employee does not know the answer:
+- Say so clearly
+- Find the correct answer immediately
+
+Employees may not:
+- Guess
+- Provide uncertain or incorrect information
+- Dismiss or rush customer questions
+
+---
+
+## Product Guidance
+
+Employees must guide customers to appropriate products.
+
+Employees must:
+- Understand core product categories
+- Explain differences clearly and simply
+- Recommend products based on customer needs
+
+Employees are not expected to know everything, but they must make a reasonable effort to assist correctly.
+
+---
+
+## Communication Standards
+
+All communication must be clear, direct, and professional.
+
+Employees must:
+- Speak clearly and respectfully
+- Use appropriate language for a family-friendly environment
+- Keep explanations simple and understandable
+
+Employees may not:
+- Use inappropriate language
+- Speak in a dismissive, sarcastic, or impatient tone
+
+---
+
+## Professional Conduct
+
+Employees must remain focused during customer interactions.
+
+Employees may not:
+- Use phones during customer interactions
+- Engage in unrelated conversations while assisting customers
+- Appear distracted or disengaged
+
+Customers must feel that they have the employee's full attention.
 
 ---
 
 ## Handling Multiple Customers
 
-- ☐ Acknowledge all customers, even if busy  
-- ☐ Let customers know you will be with them shortly  
-- ☐ Prioritize fairly  
+When multiple customers require assistance:
 
-**Suggested response:**  
-"I’ll be right with you."
+Employees must:
+- Acknowledge all customers
+- Communicate clearly about wait time
+- Maintain an organized and fair order of service
 
----
-
-## Difficult Situations
-
-- ☐ Stay calm and professional  
-- ☐ Do not argue with customers  
-- ☐ Follow store policies  
-- ☐ Involve a manager when needed  
-
-Refer to the *Handling Customer Issues* procedure for guidance.
+Employees may not:
+- Ignore waiting customers
+- Allow confusion about who is next
 
 ---
 
-## Closing Interaction
+## Difficult Interactions
 
-- ☐ Thank the customer  
-- ☐ Return items and receipt  
-- ☐ End on a positive note  
+Employees must remain professional in all situations.
 
-**Suggested response:**  
-"Thanks, have a great day!"
+Employees must:
+- Stay calm
+- Follow store policies
+- De-escalate when possible
+- Involve a manager when required
 
----
+Employees may not:
+- Argue with customers
+- Match negative behavior
+- Make policy exceptions
 
-## Important Notes
-
-- Do NOT ignore customers  
-- Do NOT provide incorrect information  
-- Do NOT prioritize tasks over customer interaction  
-
-Consistency is key. Every customer should receive the same level of service.
+Refer to handling_issues.md for escalation procedures.
 
 ---
 
-Great customer service creates a welcoming environment and builds a strong, lasting community around A&H Games.
+## Closing Interactions
+
+Every interaction must end cleanly and professionally.
+
+Employees must:
+- Complete transactions accurately
+- Return all items and receipts
+- Acknowledge the customer at the end of the interaction
+
+Examples:
+- "Thanks, have a great day."
+- "Appreciate it, see you next time."
+
+---
+
+## Prohibited Behavior
+
+Employees may not:
+
+- Ignore customers
+- Provide incorrect or uncertain information
+- Prioritize tasks over customer interaction
+- Appear disengaged or unavailable
+- Create inconsistent experiences between customers
+
+These behaviors are performance failures.
+
+---
+
+## Consistency Requirement
+
+Customer service must be consistent:
+
+- Across all employees
+- Across both locations
+- Across all customers
+
+Personal preference may not change how customers are treated.
+
+---
+
+## Default Action Rule
+
+If an employee is unsure how to handle a situation:
+
+1. Provide clear and respectful assistance
+2. Follow store policies
+3. Involve a manager if needed
+
+Uncertainty is not an excuse for poor service.
+
+---
+
+Consistent customer service ensures a professional, welcoming, and reliable store environment.

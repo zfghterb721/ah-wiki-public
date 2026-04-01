@@ -58,10 +58,18 @@ The goal of this section is to help employees understand:
 
 ---
 
-### Event Philosophy
+## Event Philosophy
 
-- [Running Great Events](event_philosophy.md)  
-  Principles for creating enjoyable and successful in-store events.
+Defines how events are structured, prioritized, and enforced at A&H Games.
+
+This document establishes expectations for:
+- Event pacing and structure
+- Player management and enforcement
+- Balancing events with overall store operations
+
+All event-related decisions and behavior must align with this document.
+
+See: [Event Philosophy](../operations/event_philosophy.md)
 
 ---
 

@@ -1,111 +1,186 @@
 # Decision Making
 
-This document provides guidance for handling situations that are not explicitly covered by policies or procedures.
+This document defines how employees must make decisions when a situation is not explicitly covered by policy or procedure.
 
-Employees are expected to use good judgment while maintaining consistency with A&H Games standards.
-
----
-
-## Core Principle
-
-When making a decision, prioritize the following:
-
-1. Follow store policy  
-2. Maintain consistency  
-3. Protect the customer experience  
-4. Protect the business  
-
-If these conflict, follow them in that order.
+Employees are expected to act decisively while maintaining consistency with A&H Games standards.
 
 ---
 
-## When a Situation Is Unclear
+## Core Priority Order
 
-- ☐ Pause before acting  
-- ☐ Identify the relevant policy or procedure  
-- ☐ Apply the closest matching rule  
-- ☐ Keep the decision simple and consistent  
+All decisions must follow this order:
 
-Do not guess or improvise without a clear reason.
+1. Follow store policy
+2. Maintain consistency
+3. Protect the customer experience
+4. Protect the business
 
----
-
-## Consistency Over Convenience
-
-- Do NOT make exceptions “just this once”  
-- Do NOT change rules based on the customer  
-- Do NOT create new policies on the spot  
-
-Consistency builds trust and prevents future problems.
+If these conflict, follow them in this order without exception.
 
 ---
 
-## When to Say No
+## Decision Standard
 
-Employees are expected to say no when requests violate policy.
+When making a decision, employees must:
 
-Common examples include:
+- Identify the closest applicable policy or rule
+- Apply it consistently
+- Keep the outcome simple and defensible
 
-- Requests for unauthorized discounts  
-- Attempts to negotiate pricing  
-- Requests to bypass return policies  
-- Requests to leave items for later (buylist)  
-
-**Suggested response:**  
-"I understand what you're asking, but we have to follow our store policy."
-
----
-
-## When to Escalate
-
-Involve a manager when:
-
-- A customer requests an exception to policy  
-- You are unsure how to proceed  
-- A situation involves conflict or escalation  
-- A high-value transaction is involved  
-
-Do not hesitate to ask for help.
+Employees may not:
+- Invent new rules
+- Ignore existing policy
+- Make decisions based on convenience or pressure
 
 ---
 
-## Customer Experience
+## Default to Policy
 
-- Be respectful and professional  
-- Communicate clearly and confidently  
-- Do not argue or become defensive  
+If a situation is unclear, employees must default to existing policy.
 
-You can enforce policy while still providing good service.
+Employees must:
+- Apply the closest matching rule
+- Interpret policy conservatively, not loosely
 
----
-
-## Risk Awareness
-
-When unsure, consider:
-
-- Could this create inconsistency?  
-- Could this cause financial loss?  
-- Could this lead to future problems?  
-
-If the answer is yes, stop and ask a manager.
+Employees may not:
+- Stretch rules to fit a situation
+- Create exceptions without approval
 
 ---
 
-## Avoid These Mistakes
+## No Exceptions Without Approval
 
-- Acting too quickly without thinking  
-- Making exceptions to avoid discomfort  
-- Ignoring policy to satisfy a customer  
-- Delaying decisions unnecessarily  
+Employees may not grant exceptions to policy.
+
+This includes:
+- Discounts
+- Pricing changes
+- Returns outside policy
+- Holding items
+- Any deviation from standard process
+
+If a customer requests an exception:
+- Deny the request
+- Offer to involve a manager if appropriate
 
 ---
 
-## Important Notes
+## Saying No
 
-- You are not expected to know everything  
-- You are expected to follow policy and ask when unsure  
-- It is better to pause and verify than to make a bad decision  
+Employees are expected to deny requests that violate policy.
+
+Employees must:
+- Communicate clearly and professionally
+- Remain firm and consistent
+
+Examples:
+- "We are not able to do that."
+- "That goes against our store policy."
+
+Employees may not:
+- Avoid saying no due to discomfort
+- Provide unclear or negotiable responses
 
 ---
 
-Good decision making ensures consistency, protects the business, and creates a better experience for both employees and customers.
+## Escalation Requirements
+
+Employees must involve a manager when:
+
+- A customer requests an exception to policy
+- The employee is unsure how to proceed
+- A situation becomes confrontational
+- The decision could impact the business financially
+- The customer continues to push after being told no
+
+Employees may not:
+- Guess in high-risk situations
+- Delay escalation when it is clearly needed
+
+---
+
+## Consistency Requirement
+
+All decisions must be consistent:
+
+- Across all employees
+- Across both locations
+- Across all customers
+
+Employees may not:
+- Change decisions based on the customer
+- Apply rules differently in similar situations
+
+Inconsistency creates repeat problems and undermines policy.
+
+---
+
+## Pressure Resistance
+
+Employees must not change decisions due to pressure.
+
+This includes:
+- Customer persistence
+- Customer frustration
+- Social pressure (regulars, friends, etc.)
+
+If pressure increases:
+- Repeat the decision clearly
+- Escalate to a manager if needed
+
+---
+
+## Risk Control
+
+When uncertain, employees must evaluate risk.
+
+If a decision could:
+- Create inconsistency
+- Cause financial loss
+- Set a precedent
+- Conflict with policy
+
+The employee must stop and escalate.
+
+---
+
+## Speed vs Accuracy
+
+Employees must act without unnecessary delay, but not at the cost of correctness.
+
+Employees must:
+- Make decisions promptly when clear
+- Pause and escalate when unclear
+
+Employees may not:
+- Rush into incorrect decisions
+- Stall when a clear answer exists
+
+---
+
+## Prohibited Behavior
+
+Employees may not:
+
+- Make exceptions without approval
+- Ignore or override policy
+- Guess in uncertain situations
+- Change decisions to avoid discomfort
+- Create inconsistent outcomes
+
+These are performance failures.
+
+---
+
+## Default Action Rule
+
+If an employee does not know what to do:
+
+1. Apply the closest relevant policy
+2. If still unclear, escalate to a manager
+
+If a decision cannot be clearly justified, it should not be made.
+
+---
+
+Consistent decision making protects the business, reduces conflict, and ensures fairness across all customers and situations.
